@@ -1,0 +1,6466 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.03.01",
+        "Name": "Western Mouth of the Anas",
+        "People": "Turdetani",
+        "Type": 1,
+        "Longitude Omega": 4.083,
+        "Latitude Omega": 37.667,
+        "Longitude Xi": 4.083,
+        "Latitude Xi": 37.667,
+        "Modern Location": "Mouth of the Guadiana near Aesuris",
+        "Modern Longitude": -7.404786,
+        "Modern Latitude": 37.178328
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.404786,
+          37.178328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.03.02",
+        "Name": "Eastern Mouth of the Anas",
+        "People": "Turdetani",
+        "Type": 1,
+        "Longitude Omega": 4.333,
+        "Latitude Omega": 37.5,
+        "Longitude Xi": 4.333,
+        "Latitude Xi": 37.5,
+        "Modern Location": "Mouth of the Guadiana near Lepe",
+        "Modern Longitude": -7.169964,
+        "Modern Latitude": 37.219769
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.169964,
+          37.219769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.05.04",
+        "Name": "Onoba Aestuaria",
+        "People": "Turdetani",
+        "Type": 1,
+        "Longitude Omega": 4.667,
+        "Latitude Omega": 37.333,
+        "Longitude Xi": 4.667,
+        "Latitude Xi": 37.333,
+        "Modern Location": "Huelva",
+        "Modern Longitude": -6.939083,
+        "Modern Latitude": 37.233064
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.939083,
+          37.233064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.05.05",
+        "Name": "Western Mouth of the Baetis",
+        "People": "Turdetani",
+        "Type": 1,
+        "Longitude Omega": 5.083,
+        "Latitude Omega": 37.167,
+        "Longitude Xi": 5.083,
+        "Latitude Xi": 37.167,
+        "Modern Location": "Mouth of the Guadalquivir near Villamanrique",
+        "Modern Longitude": -6.256708,
+        "Modern Latitude": 37.259097
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.256708,
+          37.259097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.05.06",
+        "Name": "Eastern Mouth of the Baetis",
+        "People": "Turdetani",
+        "Type": 1,
+        "Longitude Omega": 5.333,
+        "Latitude Omega": 37.0,
+        "Longitude Xi": 5.333,
+        "Latitude Xi": 37.0,
+        "Modern Location": "Mouth of the Guadalquivir near Coria del R\u00edo",
+        "Modern Longitude": -6.056856,
+        "Modern Latitude": 37.265447
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.056856,
+          37.265447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.05.08",
+        "Name": "Estuary near Asta",
+        "People": "Turdetani",
+        "Type": 1,
+        "Longitude Omega": 6.0,
+        "Latitude Omega": 36.75,
+        "Longitude Xi": 6.0,
+        "Latitude Xi": 36.75,
+        "Modern Location": "near Mesas de Asta",
+        "Modern Longitude": -6.134533,
+        "Modern Latitude": 36.874639
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.134533,
+          36.874639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.05.10",
+        "Name": "Port of Menestheus",
+        "People": "Turduli",
+        "Type": 1,
+        "Longitude Omega": 6.0,
+        "Latitude Omega": 36.333,
+        "Longitude Xi": 6.0,
+        "Latitude Xi": 36.333,
+        "Modern Location": "near Puerto de Santa Maria",
+        "Modern Longitude": -6.194219,
+        "Modern Latitude": 36.618764
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.194219,
+          36.618764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.05.11",
+        "Name": "Cape at the beginning of the Strait, with a Temple of Hera",
+        "People": "Turduli",
+        "Type": 1,
+        "Longitude Omega": 5.75,
+        "Latitude Omega": 36.0,
+        "Longitude Xi": 5.75,
+        "Latitude Xi": 36.083,
+        "Modern Location": "Cabo Trafalgar",
+        "Modern Longitude": -6.035278,
+        "Modern Latitude": 36.183333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.035278,
+          36.183333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.05.12",
+        "Name": "Mouth of the Baelo",
+        "People": "Turduli",
+        "Type": 1,
+        "Longitude Omega": 6.167,
+        "Latitude Omega": 36.167,
+        "Longitude Xi": 6.167,
+        "Latitude Xi": 36.083,
+        "Modern Location": "Mouth of the R\u00edo del Valle",
+        "Modern Longitude": -5.68875,
+        "Modern Latitude": 36.069039
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.68875,
+          36.069039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.05.13",
+        "Name": "Baelo",
+        "People": "Turduli",
+        "Type": 1,
+        "Longitude Omega": 6.25,
+        "Latitude Omega": 36.667,
+        "Longitude Xi": 6.25,
+        "Latitude Xi": 36.083,
+        "Modern Location": "Bolonia",
+        "Modern Longitude": -5.775114,
+        "Modern Latitude": 36.088606
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.775114,
+          36.088606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.06.02",
+        "Name": "Mellaria",
+        "People": "Bastuli",
+        "Type": 1,
+        "Longitude Omega": 6.5,
+        "Latitude Omega": 36.5,
+        "Longitude Xi": 6.5,
+        "Latitude Xi": 36.167,
+        "Modern Location": "Valdevaqueros",
+        "Modern Longitude": -5.682342,
+        "Modern Latitude": 36.069472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.682342,
+          36.069472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.06.03",
+        "Name": "Iulia Traducta",
+        "People": "Bastuli",
+        "Type": 1,
+        "Longitude Omega": 6.667,
+        "Latitude Omega": 36.333,
+        "Longitude Xi": 6.833,
+        "Latitude Xi": 36.083,
+        "Modern Location": "near Algeciras",
+        "Modern Longitude": -5.447122,
+        "Modern Latitude": 36.127444
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.447122,
+          36.127444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.06.04",
+        "Name": "Barbesula",
+        "People": "Bastuli",
+        "Type": 1,
+        "Longitude Omega": 7.25,
+        "Latitude Omega": 36.167,
+        "Longitude Xi": 7.25,
+        "Latitude Xi": 36.5,
+        "Modern Location": "Torre de Guadiaro",
+        "Modern Longitude": -5.275231,
+        "Modern Latitude": 36.294581
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.275231,
+          36.294581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.06.05",
+        "Name": "Carteia",
+        "People": "Bastuli",
+        "Type": 1,
+        "Longitude Omega": 7.5,
+        "Latitude Omega": 36.167,
+        "Longitude Xi": 7.5,
+        "Latitude Xi": 36.167,
+        "Modern Location": "El Rocadillo",
+        "Modern Longitude": -5.412142,
+        "Modern Latitude": 36.185272
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.412142,
+          36.185272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.06.06",
+        "Name": "Mount Calpe, Pillar of the Internal Sea",
+        "People": "Bastuli",
+        "Type": 1,
+        "Longitude Omega": 7.5,
+        "Latitude Omega": 36.25,
+        "Longitude Xi": 7.5,
+        "Latitude Xi": 36.25,
+        "Modern Location": "Rock of Gibraltar",
+        "Modern Longitude": -5.344367,
+        "Modern Latitude": 36.122681
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.344367,
+          36.122681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.07.02",
+        "Name": "Mouth of the Barbesula",
+        "People": "Bastuli",
+        "Type": 1,
+        "Longitude Omega": 7.667,
+        "Latitude Omega": 36.667,
+        "Longitude Xi": 7.667,
+        "Latitude Xi": 36.667,
+        "Modern Location": "Mouth of the Guadiaro",
+        "Modern Longitude": -5.280411,
+        "Modern Latitude": 36.283994
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.280411,
+          36.283994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.07.03",
+        "Name": "Suel",
+        "People": "Bastuli",
+        "Type": 1,
+        "Longitude Omega": 8.0,
+        "Latitude Omega": 36.083,
+        "Longitude Xi": 8.0,
+        "Latitude Xi": 36.917,
+        "Modern Location": "Fuengirola",
+        "Modern Longitude": -4.628953,
+        "Modern Latitude": 36.525194
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.628953,
+          36.525194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.07.04",
+        "Name": "Mouth of the Salduba",
+        "People": "Bastuli",
+        "Type": 1,
+        "Longitude Omega": 8.5,
+        "Latitude Omega": 37.0,
+        "Longitude Xi": 8.5,
+        "Latitude Xi": 37.0,
+        "Modern Location": "Mouth of the Guadalhorce",
+        "Modern Longitude": -4.454814,
+        "Modern Latitude": 36.672667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.454814,
+          36.672667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.07.05",
+        "Name": "Malaca",
+        "People": "Bastuli",
+        "Type": 1,
+        "Longitude Omega": 8.833,
+        "Latitude Omega": 37.5,
+        "Longitude Xi": 8.833,
+        "Latitude Xi": 37.167,
+        "Modern Location": "M\u00e1laga",
+        "Modern Longitude": -4.420003,
+        "Modern Latitude": 36.721253
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.420003,
+          36.721253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.07.06",
+        "Name": "Maenoba",
+        "People": "Bastuli",
+        "Type": 1,
+        "Longitude Omega": 9.25,
+        "Latitude Omega": 37.25,
+        "Longitude Xi": 9.25,
+        "Latitude Xi": 37.167,
+        "Modern Location": "Cerro del Mar",
+        "Modern Longitude": -4.103531,
+        "Modern Latitude": 36.740503
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.103531,
+          36.740503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.07.07",
+        "Name": "Sexi",
+        "People": "Bastuli",
+        "Type": 1,
+        "Longitude Omega": 9.75,
+        "Latitude Omega": 37.25,
+        "Longitude Xi": 9.75,
+        "Latitude Xi": 37.25,
+        "Modern Location": "Almu\u00f1\u00e9car",
+        "Modern Longitude": -3.692008,
+        "Modern Latitude": 36.732658
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.692008,
+          36.732658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.07.08",
+        "Name": "Selambina",
+        "People": "Bastuli",
+        "Type": 1,
+        "Longitude Omega": 10.25,
+        "Latitude Omega": 37.25,
+        "Longitude Xi": 10.25,
+        "Latitude Xi": 37.25,
+        "Modern Location": "Salobre\u00f1a",
+        "Modern Longitude": -3.588681,
+        "Modern Latitude": 36.742689
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.588681,
+          36.742689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.07.09",
+        "Name": "A promontory",
+        "People": "Bastuli",
+        "Type": 1,
+        "Longitude Omega": 10.833,
+        "Latitude Omega": 37.083,
+        "Longitude Xi": "None",
+        "Latitude Xi": "None",
+        "Modern Location": "Unknown cape",
+        "Modern Longitude": -3.234,
+        "Modern Latitude": 36.742689
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.234,
+          36.742689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.07.10",
+        "Name": "Abdara",
+        "People": "Bastuli",
+        "Type": 1,
+        "Longitude Omega": 10.75,
+        "Latitude Omega": 37.167,
+        "Longitude Xi": 10.75,
+        "Latitude Xi": 37.167,
+        "Modern Location": "Adra",
+        "Modern Longitude": -3.020675,
+        "Modern Latitude": 36.749022
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.020675,
+          36.749022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.07.11",
+        "Name": "Portus Magnus",
+        "People": "Bastuli",
+        "Type": 1,
+        "Longitude Omega": 11.333,
+        "Latitude Omega": 37.083,
+        "Longitude Xi": 11.333,
+        "Latitude Xi": 37.083,
+        "Modern Location": "Golfo de Almer\u00eda",
+        "Modern Longitude": -2.471667,
+        "Modern Latitude": 36.833611
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.471667,
+          36.833611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.07.12",
+        "Name": "Cape of Charidemos",
+        "People": "Bastuli",
+        "Type": 1,
+        "Longitude Omega": 11.5,
+        "Latitude Omega": 36.333,
+        "Longitude Xi": 11.5,
+        "Latitude Xi": 36.833,
+        "Modern Location": "Cabo de Gata",
+        "Modern Longitude": -2.193028,
+        "Modern Latitude": 36.721472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.193028,
+          36.721472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.08.08",
+        "Name": "Baria",
+        "People": "Bastuli",
+        "Type": 1,
+        "Longitude Omega": 11.75,
+        "Latitude Omega": 37.167,
+        "Longitude Xi": 11.75,
+        "Latitude Xi": 37.167,
+        "Modern Location": "Vera",
+        "Modern Longitude": -1.773056,
+        "Modern Latitude": 37.247778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.773056,
+          37.247778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.10.03",
+        "Name": "Segida [of the Turduli]",
+        "People": "Turduli",
+        "Type": 0,
+        "Longitude Omega": 9.167,
+        "Latitude Omega": 38.833,
+        "Longitude Xi": 9.167,
+        "Latitude Xi": 38.833,
+        "Modern Location": "near Palma del R\u00edo ",
+        "Modern Longitude": -5.239633,
+        "Modern Latitude": 37.67235
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.239633,
+          37.67235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.10.04",
+        "Name": "Iliturgi",
+        "People": "Turduli",
+        "Type": 0,
+        "Longitude Omega": 9.5,
+        "Latitude Omega": 38.667,
+        "Longitude Xi": 9.5,
+        "Latitude Xi": 38.667,
+        "Modern Location": "Cortijo de M\u00e1quiz, near Meng\u00edbar",
+        "Modern Longitude": -3.762261,
+        "Modern Latitude": 37.971208
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.762261,
+          37.971208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.10.05",
+        "Name": "Vogia",
+        "People": "Turduli",
+        "Type": 0,
+        "Longitude Omega": 9.0,
+        "Latitude Omega": 38.5,
+        "Longitude Xi": 9.0,
+        "Latitude Xi": 38.5,
+        "Modern Location": "Estacion Elevadora",
+        "Modern Longitude": -4.098122,
+        "Modern Latitude": 38.072672
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.098122,
+          38.072672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.10.06",
+        "Name": "Calpurniana",
+        "People": "Turduli",
+        "Type": 0,
+        "Longitude Omega": 9.75,
+        "Latitude Omega": 38.167,
+        "Longitude Xi": 9.75,
+        "Latitude Xi": 38.167,
+        "Modern Location": "Ca\u00f1ete de la Torres",
+        "Modern Longitude": -4.044147,
+        "Modern Latitude": 38.870394
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.044147,
+          38.870394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.11.01",
+        "Name": "Corduba",
+        "People": "Turduli",
+        "Type": 0,
+        "Longitude Omega": 9.333,
+        "Latitude Omega": 38.083,
+        "Longitude Xi": 9.333,
+        "Latitude Xi": 38.333,
+        "Modern Location": "C\u00f3rdoba",
+        "Modern Longitude": -4.780347,
+        "Modern Latitude": 37.882369
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.780347,
+          37.882369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.11.02",
+        "Name": "Ulia",
+        "People": "Turduli",
+        "Type": 0,
+        "Longitude Omega": 9.5,
+        "Latitude Omega": 38.0,
+        "Longitude Xi": 8.75,
+        "Latitude Xi": 38.0,
+        "Modern Location": "Montemayor",
+        "Modern Longitude": -4.698078,
+        "Modern Latitude": 37.649075
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.698078,
+          37.649075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.11.03",
+        "Name": "Obulco",
+        "People": "Turduli",
+        "Type": 0,
+        "Longitude Omega": 10.167,
+        "Latitude Omega": 38.0,
+        "Longitude Xi": 10.167,
+        "Latitude Xi": 38.0,
+        "Modern Location": "Porcuna",
+        "Modern Longitude": -4.185225,
+        "Modern Latitude": 37.871256
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.185225,
+          37.871256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.11.05",
+        "Name": "Detumo",
+        "People": "Turduli",
+        "Type": 0,
+        "Longitude Omega": 8.667,
+        "Latitude Omega": 37.417,
+        "Longitude Xi": 8.667,
+        "Latitude Xi": 37.667,
+        "Modern Location": "near Posadas",
+        "Modern Longitude": -5.106075,
+        "Modern Latitude": 37.801581
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.106075,
+          37.801581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.11.06",
+        "Name": "Murgi",
+        "People": "Turduli",
+        "Type": 0,
+        "Longitude Omega": 8.25,
+        "Latitude Omega": 37.667,
+        "Longitude Xi": 8.25,
+        "Latitude Xi": 37.333,
+        "Modern Location": "near Dal\u00edas",
+        "Modern Longitude": -2.845772,
+        "Modern Latitude": 36.794106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.845772,
+          36.794106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.11.07",
+        "Name": "Salduba",
+        "People": "Turduli",
+        "Type": 0,
+        "Longitude Omega": 8.75,
+        "Latitude Omega": 37.917,
+        "Longitude Xi": 8.75,
+        "Latitude Xi": 37.333,
+        "Modern Location": "near Gualdalmansa",
+        "Modern Longitude": -5.065419,
+        "Modern Latitude": 36.450936
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.065419,
+          36.450936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.11.08",
+        "Name": "Tucci",
+        "People": "Turduli",
+        "Type": 0,
+        "Longitude Omega": 8.0,
+        "Latitude Omega": 37.167,
+        "Longitude Xi": 8.0,
+        "Latitude Xi": 37.167,
+        "Modern Location": "Martos",
+        "Modern Longitude": -3.960975,
+        "Modern Latitude": 37.718328
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.960975,
+          37.718328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.11.10",
+        "Name": "Barba",
+        "People": "Turduli",
+        "Type": 0,
+        "Longitude Omega": 7.0,
+        "Latitude Omega": 36.667,
+        "Longitude Xi": 7.0,
+        "Latitude Xi": 36.667,
+        "Modern Location": "Cortijo del Castill\u00f3n",
+        "Modern Longitude": -4.631164,
+        "Modern Latitude": 37.034889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.631164,
+          37.034889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.11.11",
+        "Name": "Ebora [of the Turduli]",
+        "People": "Turduli",
+        "Type": 0,
+        "Longitude Omega": 6.25,
+        "Latitude Omega": 36.917,
+        "Longitude Xi": 6.75,
+        "Latitude Xi": 36.5,
+        "Modern Location": "Cortijo de Evora",
+        "Modern Longitude": -6.289667,
+        "Modern Latitude": 36.792169
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.289667,
+          36.792169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.11.12",
+        "Name": "Onoba",
+        "People": "Turduli",
+        "Type": 0,
+        "Longitude Omega": 6.167,
+        "Latitude Omega": 36.333,
+        "Longitude Xi": 6.5,
+        "Latitude Xi": 36.333,
+        "Modern Location": "Jimena de la Frontera",
+        "Modern Longitude": -5.455647,
+        "Modern Latitude": 36.432989
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.455647,
+          36.432989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.11.16",
+        "Name": "Osqua ",
+        "People": "Turduli",
+        "Type": 0,
+        "Longitude Omega": 9.167,
+        "Latitude Omega": 37.5,
+        "Longitude Xi": 9.833,
+        "Latitude Xi": 37.5,
+        "Modern Location": "near Villanueva de la Concepci\u00f3n",
+        "Modern Longitude": -4.547667,
+        "Modern Latitude": 36.922481
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.547667,
+          36.922481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.11.18",
+        "Name": "Calecula [of the Turduli]",
+        "People": "Turduli",
+        "Type": 0,
+        "Longitude Omega": 10.167,
+        "Latitude Omega": 37.75,
+        "Longitude Xi": 10.167,
+        "Latitude Xi": 37.75,
+        "Modern Location": "Daragoleja",
+        "Modern Longitude": -3.855631,
+        "Modern Latitude": 37.211092
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.855631,
+          37.211092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.11.19",
+        "Name": "Lacibis",
+        "People": "Turduli",
+        "Type": 0,
+        "Longitude Omega": 10.25,
+        "Latitude Omega": 37.5,
+        "Longitude Xi": 10.25,
+        "Latitude Xi": 37.5,
+        "Modern Location": "Cortijo de Clavijo",
+        "Modern Longitude": -5.317428,
+        "Modern Latitude": 36.797164
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.317428,
+          36.797164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.11.20",
+        "Name": "Sacilis",
+        "People": "Turduli",
+        "Type": 0,
+        "Longitude Omega": 10.417,
+        "Latitude Omega": 37.833,
+        "Longitude Xi": 10.833,
+        "Latitude Xi": 37.5,
+        "Modern Location": "Alcorruc\u00e9n",
+        "Modern Longitude": -4.487917,
+        "Modern Latitude": 37.988814
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.487917,
+          37.988814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.11.21",
+        "Name": "Lacippo",
+        "People": "Turduli",
+        "Type": 0,
+        "Longitude Omega": 10.75,
+        "Latitude Omega": 37.833,
+        "Longitude Xi": 10.25,
+        "Latitude Xi": 37.333,
+        "Modern Location": "Alecipe, near Casares",
+        "Modern Longitude": -5.293681,
+        "Modern Latitude": 36.441928
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.293681,
+          36.441928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.11.22",
+        "Name": "Iliberri",
+        "People": "Turduli",
+        "Type": 0,
+        "Longitude Omega": 11.0,
+        "Latitude Omega": 37.667,
+        "Longitude Xi": 11.167,
+        "Latitude Xi": 37.333,
+        "Modern Location": "Medina Elvira, near Atarfe",
+        "Modern Longitude": -3.707283,
+        "Modern Latitude": 37.23755
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.707283,
+          37.23755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.12.04",
+        "Name": "Seria",
+        "People": "Turdetani",
+        "Type": 0,
+        "Longitude Omega": 4.667,
+        "Latitude Omega": 37.75,
+        "Longitude Xi": 4.667,
+        "Latitude Xi": 37.75,
+        "Modern Location": "Jerez de los Caballeros",
+        "Modern Longitude": -6.765283,
+        "Modern Latitude": 38.321569
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.765283,
+          38.321569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.12.07",
+        "Name": "Urium",
+        "People": "Turdetani",
+        "Type": 0,
+        "Longitude Omega": 5.667,
+        "Latitude Omega": 38.333,
+        "Longitude Xi": 5.667,
+        "Latitude Xi": 38.333,
+        "Modern Location": "Minas de Riotinto",
+        "Modern Longitude": -6.599336,
+        "Modern Latitude": 37.699647
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.599336,
+          37.699647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.12.08",
+        "Name": "Illipula",
+        "People": "Turdetani",
+        "Type": 0,
+        "Longitude Omega": 6.0,
+        "Latitude Omega": 38.333,
+        "Longitude Xi": 6.0,
+        "Latitude Xi": 38.0,
+        "Modern Location": "Niebla",
+        "Modern Longitude": -6.677631,
+        "Modern Latitude": 37.361211
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.677631,
+          37.361211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.12.10",
+        "Name": "Iptuci",
+        "People": "Turdetani",
+        "Type": 0,
+        "Longitude Omega": 5.5,
+        "Latitude Omega": 37.333,
+        "Longitude Xi": 5.167,
+        "Latitude Xi": 37.5,
+        "Modern Location": "Cabeza de Hortales",
+        "Modern Longitude": -5.557667,
+        "Modern Latitude": 36.737497
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.557667,
+          36.737497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.12.11",
+        "Name": "Sala",
+        "People": "Turdetani",
+        "Type": 0,
+        "Longitude Omega": "None",
+        "Latitude Omega": "None",
+        "Longitude Xi": 5.667,
+        "Latitude Xi": 37.5,
+        "Modern Location": "Utrera",
+        "Modern Longitude": -5.708131,
+        "Modern Latitude": 37.128892
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.708131,
+          37.128892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.12.12",
+        "Name": "Nabrissa",
+        "People": "Turdetani",
+        "Type": 0,
+        "Longitude Omega": 5.667,
+        "Latitude Omega": 37.5,
+        "Longitude Xi": 5.667,
+        "Latitude Xi": 37.333,
+        "Modern Location": "Lebrija",
+        "Modern Longitude": -6.073619,
+        "Modern Latitude": 36.924156
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.073619,
+          36.924156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.12.13",
+        "Name": "Ugia",
+        "People": "Turdetani",
+        "Type": 0,
+        "Longitude Omega": 5.5,
+        "Latitude Omega": 37.75,
+        "Longitude Xi": 5.5,
+        "Latitude Xi": 37.167,
+        "Modern Location": "Torres de Alocaz",
+        "Modern Longitude": -5.829714,
+        "Modern Latitude": 36.989225
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.829714,
+          36.989225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.12.14",
+        "Name": "Asta",
+        "People": "Turdetani",
+        "Type": 0,
+        "Longitude Omega": 6.0,
+        "Latitude Omega": 37.0,
+        "Longitude Xi": 6.0,
+        "Latitude Xi": 37.333,
+        "Modern Location": "Cortijo el Rosario, near Mesas de Asta",
+        "Modern Longitude": -6.179614,
+        "Modern Latitude": 36.787608
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.179614,
+          36.787608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.12.16",
+        "Name": "Laelia",
+        "People": "Turdetani",
+        "Type": 0,
+        "Longitude Omega": 6.5,
+        "Latitude Omega": 38.667,
+        "Longitude Xi": 6.5,
+        "Latitude Xi": 38.083,
+        "Modern Location": "Albaida del Aljarafe",
+        "Modern Longitude": -6.166461,
+        "Modern Latitude": 37.426508
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.166461,
+          37.426508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.13.01",
+        "Name": "Italica",
+        "People": "Turdetani",
+        "Type": 0,
+        "Longitude Omega": 7.0,
+        "Latitude Omega": 38.0,
+        "Longitude Xi": 7.0,
+        "Latitude Xi": 38.0,
+        "Modern Location": "Santiponce",
+        "Modern Longitude": -6.045128,
+        "Modern Latitude": 37.441581
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.045128,
+          37.441581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.13.03",
+        "Name": "Ucia",
+        "People": "Turdetani",
+        "Type": 0,
+        "Longitude Omega": 7.0,
+        "Latitude Omega": 37.667,
+        "Longitude Xi": 7.0,
+        "Latitude Xi": 37.667,
+        "Modern Location": "Torres de Alocaz",
+        "Modern Longitude": -5.829714,
+        "Modern Latitude": 36.989225
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.829714,
+          36.989225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.13.04",
+        "Name": "Carissa",
+        "People": "Turdetani",
+        "Type": 0,
+        "Longitude Omega": 6.5,
+        "Latitude Omega": 37.5,
+        "Longitude Xi": 6.5,
+        "Latitude Xi": 37.5,
+        "Modern Location": "Cortijo de Carija",
+        "Modern Longitude": -5.731347,
+        "Modern Latitude": 36.876353
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.731347,
+          36.876353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.13.05",
+        "Name": "Calduba",
+        "People": "Turdetani",
+        "Type": 0,
+        "Longitude Omega": 6.667,
+        "Latitude Omega": 37.25,
+        "Longitude Xi": 6.083,
+        "Latitude Xi": 37.25,
+        "Modern Location": "Sierra de Aznar",
+        "Modern Longitude": -5.704942,
+        "Modern Latitude": 36.696575
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.704942,
+          36.696575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.13.07",
+        "Name": "Saguntia",
+        "People": "Turdetani",
+        "Type": 0,
+        "Longitude Omega": 6.5,
+        "Latitude Omega": 37.917,
+        "Longitude Xi": 6.5,
+        "Latitude Xi": 37.083,
+        "Modern Location": "Gigonza",
+        "Modern Longitude": -5.783133,
+        "Modern Latitude": 36.552011
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.783133,
+          36.552011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.13.08",
+        "Name": "Asido",
+        "People": "Turdetani",
+        "Type": 0,
+        "Longitude Omega": 6.5,
+        "Latitude Omega": 37.333,
+        "Longitude Xi": 6.5,
+        "Latitude Xi": 36.833,
+        "Modern Location": "Medina Sidonia ",
+        "Modern Longitude": -5.929531,
+        "Modern Latitude": 36.463111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.929531,
+          36.463111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.13.09",
+        "Name": "Nertobriga [of the Turdetani]",
+        "People": "Turdetani",
+        "Type": 0,
+        "Longitude Omega": 7.0,
+        "Latitude Omega": 38.833,
+        "Longitude Xi": "None",
+        "Latitude Xi": "None",
+        "Modern Location": "Sierra del Coto, near Fregenal de la Sierra",
+        "Modern Longitude": -6.610878,
+        "Modern Latitude": 38.117169
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.610878,
+          38.117169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.13.11",
+        "Name": "Regina",
+        "People": "Turdetani",
+        "Type": 0,
+        "Longitude Omega": 7.167,
+        "Latitude Omega": 37.833,
+        "Longitude Xi": 7.167,
+        "Latitude Xi": 38.917,
+        "Modern Location": "near Casas de Reina",
+        "Modern Longitude": -5.950678,
+        "Modern Latitude": 38.202581
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.950678,
+          38.202581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.13.13",
+        "Name": "Mirobriga [of the Turdetani]",
+        "People": "Turdetani",
+        "Type": 0,
+        "Longitude Omega": 7.0,
+        "Latitude Omega": 38.417,
+        "Longitude Xi": 7.0,
+        "Latitude Xi": 38.417,
+        "Modern Location": "Capilla",
+        "Modern Longitude": -5.084397,
+        "Modern Latitude": 38.820444
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.084397,
+          38.820444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.13.15",
+        "Name": "Ilipa Magna",
+        "People": "Turdetani",
+        "Type": 0,
+        "Longitude Omega": 7.667,
+        "Latitude Omega": 37.5,
+        "Longitude Xi": 7.667,
+        "Latitude Xi": 38.167,
+        "Modern Location": "Alcal\u00e1 del R\u00edo",
+        "Modern Longitude": -5.978981,
+        "Modern Latitude": 37.519458
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.978981,
+          37.519458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.14.01",
+        "Name": "Hispalis",
+        "People": "Turdetani",
+        "Type": 0,
+        "Longitude Omega": 7.25,
+        "Latitude Omega": 37.833,
+        "Longitude Xi": 7.25,
+        "Latitude Xi": 37.833,
+        "Modern Location": "Sevilla",
+        "Modern Longitude": -5.994631,
+        "Modern Latitude": 37.393564
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.994631,
+          37.393564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.14.02",
+        "Name": "Obulcula",
+        "People": "Turdetani",
+        "Type": 0,
+        "Longitude Omega": 8.0,
+        "Latitude Omega": 37.75,
+        "Longitude Xi": 8.0,
+        "Latitude Xi": 37.833,
+        "Modern Location": "Castillo de la Monclova",
+        "Modern Longitude": -5.315614,
+        "Modern Latitude": 37.516947
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.315614,
+          37.516947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.14.05",
+        "Name": "Urso",
+        "People": "Turdetani",
+        "Type": 0,
+        "Longitude Omega": 7.5,
+        "Latitude Omega": 37.417,
+        "Longitude Xi": 7.5,
+        "Latitude Xi": 37.083,
+        "Modern Location": "Osuna",
+        "Modern Longitude": -5.095653,
+        "Modern Latitude": 37.238911
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.095653,
+          37.238911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.14.06",
+        "Name": "Baesippo",
+        "People": "Turdetani",
+        "Type": 0,
+        "Longitude Omega": 7.25,
+        "Latitude Omega": 37.083,
+        "Longitude Xi": 7.25,
+        "Latitude Xi": 37.083,
+        "Modern Location": "Barbate",
+        "Modern Longitude": -5.915728,
+        "Modern Latitude": 36.197733
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.915728,
+          36.197733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.14.10",
+        "Name": "Astigi",
+        "People": "Turdetani",
+        "Type": 0,
+        "Longitude Omega": 8.25,
+        "Latitude Omega": 38.333,
+        "Longitude Xi": 8.25,
+        "Latitude Xi": 38.333,
+        "Modern Location": "\u00c9cija",
+        "Modern Longitude": -5.079589,
+        "Modern Latitude": 37.540928
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.079589,
+          37.540928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.14.11",
+        "Name": "Carmo",
+        "People": "Turdetani",
+        "Type": 0,
+        "Longitude Omega": 8.167,
+        "Latitude Omega": 38.0,
+        "Longitude Xi": 8.167,
+        "Latitude Xi": 38.0,
+        "Modern Location": "Carmona",
+        "Modern Longitude": -5.639742,
+        "Modern Latitude": 37.474367
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.639742,
+          37.474367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.15.02",
+        "Name": "Arucci",
+        "People": "Celtici Baeticae",
+        "Type": 0,
+        "Longitude Omega": 5.833,
+        "Latitude Omega": 38.0,
+        "Longitude Xi": 5.833,
+        "Latitude Xi": 38.833,
+        "Modern Location": "Aroche",
+        "Modern Longitude": -6.948544,
+        "Modern Latitude": 37.969111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.948544,
+          37.969111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.15.03",
+        "Name": "Arunda",
+        "People": "Celtici Baeticae",
+        "Type": 0,
+        "Longitude Omega": 6.5,
+        "Latitude Omega": 38.5,
+        "Longitude Xi": 6.5,
+        "Latitude Xi": 38.833,
+        "Modern Location": "Ronda",
+        "Modern Longitude": -5.163608,
+        "Modern Latitude": 36.741925
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.163608,
+          36.741925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.15.04",
+        "Name": "Curiga ",
+        "People": "Celtici Baeticae",
+        "Type": 0,
+        "Longitude Omega": 6.0,
+        "Latitude Omega": 38.667,
+        "Longitude Xi": 6.0,
+        "Latitude Xi": 38.667,
+        "Modern Location": "Monesterio",
+        "Modern Longitude": -6.272761,
+        "Modern Latitude": 38.088764
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.272761,
+          38.088764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.15.05",
+        "Name": "Acinippo",
+        "People": "Celtici Baeticae",
+        "Type": 0,
+        "Longitude Omega": 6.5,
+        "Latitude Omega": 38.833,
+        "Longitude Xi": 6.5,
+        "Latitude Xi": 38.417,
+        "Modern Location": "Ronda la Vieja",
+        "Modern Longitude": -5.239336,
+        "Modern Latitude": 36.831689
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.239336,
+          36.831689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.15.06",
+        "Name": "Vama",
+        "People": "Celtici Baeticae",
+        "Type": 0,
+        "Longitude Omega": 6.25,
+        "Latitude Omega": 38.417,
+        "Longitude Xi": 6.25,
+        "Latitude Xi": 38.417,
+        "Modern Location": "Salvatierra de los Barros",
+        "Modern Longitude": -6.684236,
+        "Modern Latitude": 38.490453
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.684236,
+          38.490453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.15.08",
+        "Name": "Marianus Mount",
+        "People": "Unspecified",
+        "Type": 0,
+        "Longitude Omega": 7.333,
+        "Latitude Omega": 37.667,
+        "Longitude Xi": 6.0,
+        "Latitude Xi": 37.667,
+        "Modern Location": "Sierra Morena",
+        "Modern Longitude": -6.236008,
+        "Modern Latitude": 38.180306
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.236008,
+          38.180306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.04.16.03",
+        "Name": "Gades",
+        "People": "Unspecified",
+        "Type": 2,
+        "Longitude Omega": 5.167,
+        "Latitude Omega": 36.167,
+        "Longitude Xi": 5.167,
+        "Latitude Xi": 36.667,
+        "Modern Location": "C\u00e1diz",
+        "Modern Longitude": -6.298039,
+        "Modern Latitude": 36.532847
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.298039,
+          36.532847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.05.01.04",
+        "Name": "Mouth of the Durius",
+        "People": "Lusitani",
+        "Type": 1,
+        "Longitude Omega": 5.333,
+        "Latitude Omega": 41.833,
+        "Longitude Xi": 5.333,
+        "Latitude Xi": 41.833,
+        "Modern Location": "Mouth of the Douro",
+        "Modern Longitude": -8.660622,
+        "Modern Latitude": 41.141625
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.660622,
+          41.141625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.05.03.04",
+        "Name": "Balsa",
+        "People": "Turdetani",
+        "Type": 1,
+        "Longitude Omega": 3.667,
+        "Latitude Omega": 37.75,
+        "Longitude Xi": 3.667,
+        "Latitude Xi": 37.75,
+        "Modern Location": "near Tavira",
+        "Modern Longitude": -7.646867,
+        "Modern Latitude": 37.130044
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.646867,
+          37.130044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.05.03.05",
+        "Name": "Ossonoba",
+        "People": "Turdetani",
+        "Type": 1,
+        "Longitude Omega": 3.0,
+        "Latitude Omega": 37.833,
+        "Longitude Xi": 3.0,
+        "Latitude Xi": 37.917,
+        "Modern Location": "near Faro",
+        "Modern Longitude": -7.932236,
+        "Modern Latitude": 37.016908
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.932236,
+          37.016908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.05.03.06",
+        "Name": "Sacred Cape",
+        "People": "Turdetani",
+        "Type": 1,
+        "Longitude Omega": 2.5,
+        "Latitude Omega": 38.25,
+        "Longitude Xi": 2.5,
+        "Latitude Xi": 38.25,
+        "Modern Location": "Cabo de S\u00e3o Vicente",
+        "Modern Longitude": -8.997392,
+        "Modern Latitude": 37.022139
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.997392,
+          37.022139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.05.03.07",
+        "Name": "Mouth of the Calipus",
+        "People": "Turdetani",
+        "Type": 1,
+        "Longitude Omega": 5.0,
+        "Latitude Omega": 39.0,
+        "Longitude Xi": 5.0,
+        "Latitude Xi": 39.0,
+        "Modern Location": "Mouth of the Sado",
+        "Modern Longitude": -8.749869,
+        "Modern Latitude": 38.440247
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.749869,
+          38.440247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.05.03.08",
+        "Name": "Salacia",
+        "People": "Turdetani",
+        "Type": 1,
+        "Longitude Omega": 5.083,
+        "Latitude Omega": 39.417,
+        "Longitude Xi": 5.083,
+        "Latitude Xi": 39.417,
+        "Modern Location": "Alc\u00e1cer do Sal",
+        "Modern Longitude": -8.513351,
+        "Modern Latitude": 38.372483
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.513351,
+          38.372483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.05.03.09",
+        "Name": "Caetobrix",
+        "People": "Turdetani",
+        "Type": 1,
+        "Longitude Omega": 4.417,
+        "Latitude Omega": 39.5,
+        "Longitude Xi": 4.917,
+        "Latitude Xi": 39.833,
+        "Modern Location": "Set\u00fabal",
+        "Modern Longitude": -8.891389,
+        "Modern Latitude": 38.525117
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.891389,
+          38.525117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.05.04.02",
+        "Name": "Cape Barbarium",
+        "People": "Lusitani",
+        "Type": 1,
+        "Longitude Omega": 4.25,
+        "Latitude Omega": 39.75,
+        "Longitude Xi": 4.833,
+        "Latitude Xi": 39.833,
+        "Modern Location": "Cabo Espichel",
+        "Modern Longitude": -9.221386,
+        "Modern Latitude": 38.410875
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.221386,
+          38.410875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.05.04.03",
+        "Name": "Olisipo",
+        "People": "Lusitani",
+        "Type": 1,
+        "Longitude Omega": 5.167,
+        "Latitude Omega": 40.25,
+        "Longitude Xi": 5.167,
+        "Latitude Xi": 40.25,
+        "Modern Location": "Lisboa",
+        "Modern Longitude": -9.133375,
+        "Modern Latitude": 38.713678
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.133375,
+          38.713678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.05.04.04",
+        "Name": "Mouth of the Tagus",
+        "People": "Lusitani",
+        "Type": 1,
+        "Longitude Omega": 5.5,
+        "Latitude Omega": 40.167,
+        "Longitude Xi": 5.667,
+        "Latitude Xi": 40.5,
+        "Modern Location": "Mouth of the Tejo",
+        "Modern Longitude": -9.217472,
+        "Modern Latitude": 38.684794
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.217472,
+          38.684794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.05.04.07",
+        "Name": "Mount of Selene, a cape",
+        "People": "Lusitani",
+        "Type": 1,
+        "Longitude Omega": 5.0,
+        "Latitude Omega": 40.667,
+        "Longitude Xi": 5.0,
+        "Latitude Xi": 40.667,
+        "Modern Location": "Cabo de Roca",
+        "Modern Longitude": -9.496406,
+        "Modern Latitude": 38.779014
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.496406,
+          38.779014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.05.04.08",
+        "Name": "Mouth of the Munda",
+        "People": "Lusitani",
+        "Type": 1,
+        "Longitude Omega": 5.167,
+        "Latitude Omega": 40.833,
+        "Longitude Xi": 5.167,
+        "Latitude Xi": 40.833,
+        "Modern Location": "Mouth of the Mondego",
+        "Modern Longitude": -8.861908,
+        "Modern Latitude": 40.145572
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.861908,
+          40.145572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.05.04.09",
+        "Name": "Mouth of the Vacua",
+        "People": "Lusitani",
+        "Type": 1,
+        "Longitude Omega": 5.167,
+        "Latitude Omega": 41.333,
+        "Longitude Xi": 5.5,
+        "Latitude Xi": 41.333,
+        "Modern Location": "Mouth of the Rio Vouga",
+        "Modern Longitude": -8.610117,
+        "Modern Latitude": 40.713189
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.610117,
+          40.713189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.05.05.04",
+        "Name": "Pax Iulia",
+        "People": "Turdetani",
+        "Type": 0,
+        "Longitude Omega": 5.333,
+        "Latitude Omega": 39.0,
+        "Longitude Xi": 5.333,
+        "Latitude Xi": 39.0,
+        "Modern Location": "Beja",
+        "Modern Longitude": -7.862733,
+        "Modern Latitude": 38.015375
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.862733,
+          38.015375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.05.05.05",
+        "Name": "Iulia Myrtilis",
+        "People": "Turdetani",
+        "Type": 0,
+        "Longitude Omega": 5.25,
+        "Latitude Omega": 38.75,
+        "Longitude Xi": 5.25,
+        "Latitude Xi": 38.75,
+        "Modern Location": "M\u00e9rtola",
+        "Modern Longitude": -7.661122,
+        "Modern Latitude": 37.641694
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.661122,
+          37.641694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.05.06.03",
+        "Name": "Laccobriga",
+        "People": "Celtici",
+        "Type": 0,
+        "Longitude Omega": 5.75,
+        "Latitude Omega": 40.25,
+        "Longitude Xi": 5.75,
+        "Latitude Xi": 40.25,
+        "Modern Location": "Laccobriga",
+        "Modern Longitude": -8.673925,
+        "Modern Latitude": 37.100972
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.673925,
+          37.100972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.05.06.06",
+        "Name": "Mirobriga [of the Celtici]",
+        "People": "Celtici",
+        "Type": 0,
+        "Longitude Omega": 5.333,
+        "Latitude Omega": 39.75,
+        "Longitude Xi": 5.333,
+        "Latitude Xi": 39.75,
+        "Modern Location": "near Santiago do Cac\u00e9m",
+        "Modern Longitude": -8.683694,
+        "Modern Latitude": 38.010217
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.683694,
+          38.010217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.05.06.11",
+        "Name": "Arandis",
+        "People": "Celtici",
+        "Type": 0,
+        "Longitude Omega": 6.167,
+        "Latitude Omega": 39.083,
+        "Longitude Xi": 6.5,
+        "Latitude Xi": 39.083,
+        "Modern Location": "near Ourique",
+        "Modern Longitude": -8.210908,
+        "Modern Latitude": 37.759636
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.210908,
+          37.759636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.05.07.03",
+        "Name": "Aritium",
+        "People": "Lusitani",
+        "Type": 0,
+        "Longitude Omega": 5.667,
+        "Latitude Omega": 41.5,
+        "Longitude Xi": 5.667,
+        "Latitude Xi": 41.5,
+        "Modern Location": "near Alvega",
+        "Modern Longitude": -8.045564,
+        "Modern Latitude": 39.465153
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.045564,
+          39.465153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.05.07.04",
+        "Name": "Selium",
+        "People": "Lusitani",
+        "Type": 0,
+        "Longitude Omega": 6.0,
+        "Latitude Omega": 41.333,
+        "Longitude Xi": 6.0,
+        "Latitude Xi": 41.333,
+        "Modern Location": "near Tomar",
+        "Modern Longitude": -8.411344,
+        "Modern Latitude": 39.604011
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.411344,
+          39.604011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.05.07.09",
+        "Name": "Aeminium",
+        "People": "Lusitani",
+        "Type": 0,
+        "Longitude Omega": 7.333,
+        "Latitude Omega": 41.5,
+        "Longitude Xi": 7.667,
+        "Latitude Xi": 41.0,
+        "Modern Location": "Coimbra",
+        "Modern Longitude": -8.428381,
+        "Modern Latitude": 40.209261
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.428381,
+          40.209261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.05.07.12",
+        "Name": "Scallabis Colonia",
+        "People": "Lusitani",
+        "Type": 0,
+        "Longitude Omega": 6.0,
+        "Latitude Omega": 41.0,
+        "Longitude Xi": 6.0,
+        "Latitude Xi": 40.917,
+        "Modern Location": "Santar\u00e9m",
+        "Modern Longitude": -8.684586,
+        "Modern Latitude": 39.235564
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.684586,
+          39.235564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.05.07.13",
+        "Name": "Tacubis",
+        "People": "Lusitani",
+        "Type": 0,
+        "Longitude Omega": 6.333,
+        "Latitude Omega": 40.75,
+        "Longitude Xi": 6.333,
+        "Latitude Xi": 40.75,
+        "Modern Location": "Const\u00e2ncia",
+        "Modern Longitude": -8.338528,
+        "Modern Latitude": 39.477308
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.338528,
+          39.477308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.05.07.16",
+        "Name": "Rusticana",
+        "People": "Lusitani",
+        "Type": 0,
+        "Longitude Omega": 7.167,
+        "Latitude Omega": 40.5,
+        "Longitude Xi": 7.667,
+        "Latitude Xi": 40.5,
+        "Modern Location": "Galisteo",
+        "Modern Longitude": -6.267519,
+        "Modern Latitude": 39.975614
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.267519,
+          39.975614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.05.08.02",
+        "Name": "Caurium",
+        "People": "Lusitani",
+        "Type": 0,
+        "Longitude Omega": 6.667,
+        "Latitude Omega": 40.0,
+        "Longitude Xi": 6.667,
+        "Latitude Xi": 40.0,
+        "Modern Location": "Coria",
+        "Modern Longitude": -6.536056,
+        "Modern Latitude": 39.987292
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.536056,
+          39.987292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.05.08.04",
+        "Name": "Burdua",
+        "People": "Lusitani",
+        "Type": 0,
+        "Longitude Omega": 7.333,
+        "Latitude Omega": 40.0,
+        "Longitude Xi": 7.333,
+        "Latitude Xi": 40.0,
+        "Modern Location": "near Ermita de Nuestra Se\u00f1ora de B\u00f3toa.",
+        "Modern Longitude": -6.916056,
+        "Modern Latitude": 39.004094
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.916056,
+          39.004094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.05.08.07",
+        "Name": "Ammaia",
+        "People": "Lusitani",
+        "Type": 0,
+        "Longitude Omega": 7.0,
+        "Latitude Omega": 39.333,
+        "Longitude Xi": 7.0,
+        "Latitude Xi": 39.333,
+        "Modern Location": "near S\u00e3o Salvador de Armenha",
+        "Modern Longitude": -7.388797,
+        "Modern Latitude": 39.373269
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.388797,
+          39.373269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.05.08.08",
+        "Name": "Ebora [of the Lusitani]",
+        "People": "Lusitani",
+        "Type": 0,
+        "Longitude Omega": 7.0,
+        "Latitude Omega": 39.083,
+        "Longitude Xi": 7.0,
+        "Latitude Xi": 39.083,
+        "Modern Location": "\u00c9vora",
+        "Modern Longitude": -7.909247,
+        "Modern Latitude": 38.572092
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.909247,
+          38.572092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.05.08.09",
+        "Name": "Norba Caesarina",
+        "People": "Lusitani",
+        "Type": 0,
+        "Longitude Omega": 7.833,
+        "Latitude Omega": 39.917,
+        "Longitude Xi": 7.833,
+        "Latitude Xi": 39.917,
+        "Modern Location": "C\u00e1ceres",
+        "Modern Longitude": -6.371153,
+        "Modern Latitude": 39.473214
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.371153,
+          39.473214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.05.08.11",
+        "Name": "Augusta Emerita",
+        "People": "Lusitani",
+        "Type": 0,
+        "Longitude Omega": 8.0,
+        "Latitude Omega": 39.5,
+        "Longitude Xi": 8.0,
+        "Latitude Xi": 39.5,
+        "Modern Location": "M\u00e9rida",
+        "Modern Longitude": -6.34435,
+        "Modern Latitude": 38.916503
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.34435,
+          38.916503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.05.08.12",
+        "Name": "Evandria",
+        "People": "Lusitani",
+        "Type": 0,
+        "Longitude Omega": 7.333,
+        "Latitude Omega": 39.25,
+        "Longitude Xi": 7.333,
+        "Latitude Xi": 39.25,
+        "Modern Location": "Evandria",
+        "Modern Longitude": -6.454572,
+        "Modern Latitude": 38.856789
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.454572,
+          38.856789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.05.08.14",
+        "Name": "Caecilia Metellina",
+        "People": "Lusitani",
+        "Type": 0,
+        "Longitude Omega": 8.5,
+        "Latitude Omega": 39.5,
+        "Longitude Xi": 8.5,
+        "Latitude Xi": 39.5,
+        "Modern Location": "Medell\u00edn",
+        "Modern Longitude": -5.956114,
+        "Modern Latitude": 38.966228
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.956114,
+          38.966228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.05.09.04",
+        "Name": "Salmantica",
+        "People": "Vettones",
+        "Type": 0,
+        "Longitude Omega": 8.833,
+        "Latitude Omega": 41.833,
+        "Longitude Xi": 8.833,
+        "Latitude Xi": 41.833,
+        "Modern Location": "Salamanca",
+        "Modern Longitude": -5.667142,
+        "Modern Latitude": 40.960497
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.667142,
+          40.960497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.05.09.05",
+        "Name": "Augustobriga [of the Vettones]",
+        "People": "Vettones",
+        "Type": 0,
+        "Longitude Omega": 8.0,
+        "Latitude Omega": 41.25,
+        "Longitude Xi": 8.0,
+        "Latitude Xi": 41.25,
+        "Modern Location": "Talavera de la Reina",
+        "Modern Longitude": -4.833311,
+        "Modern Latitude": 39.959228
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.833311,
+          39.959228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.05.09.06",
+        "Name": "Ocelum",
+        "People": "Vettones",
+        "Type": 0,
+        "Longitude Omega": 8.333,
+        "Latitude Omega": 41.25,
+        "Longitude Xi": 8.833,
+        "Latitude Xi": 40.75,
+        "Modern Location": "Zamora",
+        "Modern Longitude": -5.743803,
+        "Modern Latitude": 41.502225
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.743803,
+          41.502225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.05.09.07",
+        "Name": "Capara",
+        "People": "Vettones",
+        "Type": 0,
+        "Longitude Omega": 8.5,
+        "Latitude Omega": 41.0,
+        "Longitude Xi": 8.167,
+        "Latitude Xi": 41.0,
+        "Modern Location": "Ventas de C\u00e1parra",
+        "Modern Longitude": -6.101111,
+        "Modern Latitude": 40.166944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.101111,
+          40.166944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.05.09.09",
+        "Name": "Laconimurgi",
+        "People": "Vettones",
+        "Type": 0,
+        "Longitude Omega": 8.333,
+        "Latitude Omega": 40.75,
+        "Longitude Xi": 8.333,
+        "Latitude Xi": 40.75,
+        "Modern Location": "Navalvillar de Pela",
+        "Modern Longitude": -5.468869,
+        "Modern Latitude": 39.091072
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.468869,
+          39.091072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.05.10.02",
+        "Name": "Londobris Island",
+        "People": "Unspecified",
+        "Type": 2,
+        "Longitude Omega": 3.0,
+        "Latitude Omega": 41.0,
+        "Longitude Xi": 3.0,
+        "Latitude Xi": 41.0,
+        "Modern Location": "Berlanga",
+        "Modern Longitude": -9.510358,
+        "Modern Latitude": 39.415397
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.510358,
+          39.415397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.01.05",
+        "Name": "Mouth of the Avus",
+        "People": "Callaeci Bracarorum",
+        "Type": 1,
+        "Longitude Omega": 5.5,
+        "Latitude Omega": 42.25,
+        "Longitude Xi": 5.5,
+        "Latitude Xi": 42.25,
+        "Modern Location": "Mouth of the Rio Ave",
+        "Modern Longitude": -8.744131,
+        "Modern Latitude": 41.346606
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.744131,
+          41.346606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.01.06",
+        "Name": "Cape Avarum",
+        "People": "Callaeci Bracarorum",
+        "Type": 1,
+        "Longitude Omega": 5.167,
+        "Latitude Omega": 42.5,
+        "Longitude Xi": 5.5,
+        "Latitude Xi": 42.5,
+        "Modern Location": "near P\u00f3voa de Varzim",
+        "Modern Longitude": -8.788453,
+        "Modern Latitude": 41.413089
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.788453,
+          41.413089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.01.07",
+        "Name": "Mouth of the Nebis",
+        "People": "Callaeci Bracarorum",
+        "Type": 1,
+        "Longitude Omega": 5.667,
+        "Latitude Omega": 42.75,
+        "Longitude Xi": 5.667,
+        "Latitude Xi": 42.75,
+        "Modern Location": "Mouth of the Rio Neiva",
+        "Modern Longitude": -8.807792,
+        "Modern Latitude": 41.611908
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.807792,
+          41.611908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.01.08",
+        "Name": "Mouth of the Limia",
+        "People": "Callaeci Bracarorum",
+        "Type": 1,
+        "Longitude Omega": 5.5,
+        "Latitude Omega": 43.25,
+        "Longitude Xi": 5.5,
+        "Latitude Xi": 43.25,
+        "Modern Location": "Mouth of the Rio Limia",
+        "Modern Longitude": -8.832853,
+        "Modern Latitude": 41.685639
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.832853,
+          41.685639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.01.09",
+        "Name": "Mouth of the Minius",
+        "People": "Callaeci Bracarorum",
+        "Type": 1,
+        "Longitude Omega": 5.333,
+        "Latitude Omega": 43.667,
+        "Longitude Xi": 5.333,
+        "Latitude Xi": 43.667,
+        "Modern Location": "Mouth of the Rio Minho/Mi\u00f1o",
+        "Modern Longitude": -8.868175,
+        "Modern Latitude": 41.867572
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.868175,
+          41.867572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.02.02",
+        "Name": "Cape Orovium",
+        "People": "Callaeci Lucensium ",
+        "Type": 1,
+        "Longitude Omega": 5.5,
+        "Latitude Omega": 44.0,
+        "Longitude Xi": 5.5,
+        "Latitude Xi": 44.0,
+        "Modern Location": "near Pen\u00ednsula do Morrazo",
+        "Modern Longitude": -8.847467,
+        "Modern Latitude": 42.271764
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.847467,
+          42.271764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.02.03",
+        "Name": "Mouth of the Via",
+        "People": "Callaeci Lucensium ",
+        "Type": 1,
+        "Longitude Omega": 5.667,
+        "Latitude Omega": 44.333,
+        "Longitude Xi": 5.667,
+        "Latitude Xi": 44.333,
+        "Modern Location": "Mouth of the Rio Ulla",
+        "Modern Longitude": -8.851356,
+        "Modern Latitude": 42.595247
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.851356,
+          42.595247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.02.05",
+        "Name": "Mouth of the Tamara",
+        "People": "Artabri",
+        "Type": 1,
+        "Longitude Omega": 5.667,
+        "Latitude Omega": 44.667,
+        "Longitude Xi": 5.667,
+        "Latitude Xi": 44.667,
+        "Modern Location": "near R\u00eda de Muros e Noia",
+        "Modern Longitude": -9.005797,
+        "Modern Latitude": 42.750222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.005797,
+          42.750222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.02.06",
+        "Name": "Port of the Artabri",
+        "People": "Artabri",
+        "Type": 1,
+        "Longitude Omega": 5.333,
+        "Latitude Omega": 45.0,
+        "Longitude Xi": 5.667,
+        "Latitude Xi": 45.0,
+        "Modern Location": "near R\u00eda de Corcubi\u00f3n",
+        "Modern Longitude": -9.234653,
+        "Modern Latitude": 42.915983
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.234653,
+          42.915983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.02.07",
+        "Name": "Cape Nerion",
+        "People": "Artabri",
+        "Type": 1,
+        "Longitude Omega": 5.25,
+        "Latitude Omega": 45.167,
+        "Longitude Xi": 5.25,
+        "Latitude Xi": 45.167,
+        "Modern Location": "Cabo Touri\u00f1\u00e1n",
+        "Modern Longitude": -9.299642,
+        "Modern Latitude": 43.056125
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.299642,
+          43.056125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.04.03",
+        "Name": "Flavium Brigantium",
+        "People": "Callaeci Lucensium ",
+        "Type": 1,
+        "Longitude Omega": 7.25,
+        "Latitude Omega": 45.0,
+        "Longitude Xi": 6.75,
+        "Latitude Xi": 45.0,
+        "Modern Location": "La Coru\u00f1a",
+        "Modern Longitude": -8.401058,
+        "Modern Latitude": 43.378136
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.401058,
+          43.378136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.04.04",
+        "Name": "Cape Trileucum",
+        "People": "Callaeci Lucensium ",
+        "Type": 1,
+        "Longitude Omega": 8.25,
+        "Latitude Omega": 45.833,
+        "Longitude Xi": 8.25,
+        "Latitude Xi": 45.833,
+        "Modern Location": "Cabo Ortegal",
+        "Modern Longitude": -7.869531,
+        "Modern Latitude": 43.774689
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.869531,
+          43.774689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.04.05",
+        "Name": "Mouth of the Mearus",
+        "People": "Callaeci Lucensium ",
+        "Type": 1,
+        "Longitude Omega": 9.0,
+        "Latitude Omega": 45.75,
+        "Longitude Xi": 9.0,
+        "Latitude Xi": 45.75,
+        "Modern Location": "Mouth of the Rio Mera",
+        "Modern Longitude": -7.870481,
+        "Modern Latitude": 43.695042
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.870481,
+          43.695042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.04.07",
+        "Name": "Mouth of the Navia",
+        "People": "Callaeci Lucensium ",
+        "Type": 1,
+        "Longitude Omega": 11.333,
+        "Latitude Omega": 45.75,
+        "Longitude Xi": 11.667,
+        "Latitude Xi": 45.75,
+        "Modern Location": "Mouth of the R\u00edo Navia",
+        "Modern Longitude": -6.725169,
+        "Modern Latitude": 43.555567
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.725169,
+          43.555567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.05.02",
+        "Name": "Flavionavia",
+        "People": "Paesici",
+        "Type": 1,
+        "Longitude Omega": 11.75,
+        "Latitude Omega": 45.417,
+        "Longitude Xi": 11.75,
+        "Latitude Xi": 45.417,
+        "Modern Location": "Navia",
+        "Modern Longitude": -6.722533,
+        "Modern Latitude": 43.539506
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.722533,
+          43.539506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.05.03",
+        "Name": "Mouth of the Naelo",
+        "People": "Paesici",
+        "Type": 1,
+        "Longitude Omega": 12.0,
+        "Latitude Omega": 45.5,
+        "Longitude Xi": 12.0,
+        "Latitude Xi": 45.167,
+        "Modern Location": "Mouth of the R\u00edo Nal\u00f3n",
+        "Modern Longitude": -6.076844,
+        "Modern Latitude": 43.564244
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.076844,
+          43.564244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.07.02",
+        "Name": "Mouth of the Nerva",
+        "People": "Autrigones",
+        "Type": 1,
+        "Longitude Omega": 13.167,
+        "Latitude Omega": 44.667,
+        "Longitude Xi": 13.167,
+        "Latitude Xi": 44.667,
+        "Modern Location": "Mouth of the R\u00edo Nervi\u00f3n",
+        "Modern Longitude": -3.023156,
+        "Modern Latitude": 43.332475
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.023156,
+          43.332475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.07.03",
+        "Name": "Flaviobriga",
+        "People": "Autrigones",
+        "Type": 1,
+        "Longitude Omega": 13.5,
+        "Latitude Omega": 44.25,
+        "Longitude Xi": 13.5,
+        "Latitude Xi": 44.25,
+        "Modern Location": "Castro Urdiales",
+        "Modern Longitude": -3.219683,
+        "Modern Latitude": 43.382744
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.219683,
+          43.382744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.08.02",
+        "Name": "Mouth of the Deva",
+        "People": "Carietes",
+        "Type": 1,
+        "Longitude Omega": 13.75,
+        "Latitude Omega": 44.417,
+        "Longitude Xi": 13.833,
+        "Latitude Xi": 44.083,
+        "Modern Location": "Mouth of the Deba ibaia",
+        "Modern Longitude": -2.353872,
+        "Modern Latitude": 43.299475
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.353872,
+          43.299475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.10.02",
+        "Name": "Oiasso",
+        "People": "Vascones",
+        "Type": 1,
+        "Longitude Omega": 15.167,
+        "Latitude Omega": 45.083,
+        "Longitude Xi": 15.167,
+        "Latitude Xi": 45.083,
+        "Modern Location": "Oiartzun",
+        "Modern Longitude": -1.862294,
+        "Modern Latitude": 43.298472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.862294,
+          43.298472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.10.03",
+        "Name": "Cape Oiasso",
+        "People": "Vascones",
+        "Type": 1,
+        "Longitude Omega": 15.0,
+        "Latitude Omega": 45.833,
+        "Longitude Xi": 15.167,
+        "Latitude Xi": 45.833,
+        "Modern Location": "Higuer Lurmuturra",
+        "Modern Longitude": -1.791319,
+        "Modern Latitude": 43.395997
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.791319,
+          43.395997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.13.02",
+        "Name": "Urci",
+        "People": "Bastetani",
+        "Type": 1,
+        "Longitude Omega": 12.0,
+        "Latitude Omega": 37.333,
+        "Longitude Xi": 12.0,
+        "Latitude Xi": 37.417,
+        "Modern Location": "Pechina",
+        "Modern Longitude": -2.450464,
+        "Modern Latitude": 36.912731
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.450464,
+          36.912731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.14.02",
+        "Name": "Lucentum",
+        "People": "Contestani",
+        "Type": 1,
+        "Longitude Omega": 12.167,
+        "Latitude Omega": 37.5,
+        "Longitude Xi": 12.167,
+        "Latitude Xi": 37.5,
+        "Modern Location": "Alicante",
+        "Modern Longitude": -0.478314,
+        "Modern Latitude": 38.348803
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.478314,
+          38.348803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.14.03",
+        "Name": "Carthago Nova",
+        "People": "Contestani",
+        "Type": 1,
+        "Longitude Omega": 12.25,
+        "Latitude Omega": 37.917,
+        "Longitude Xi": 12.25,
+        "Latitude Xi": 37.917,
+        "Modern Location": "Cartagena",
+        "Modern Longitude": -0.983944,
+        "Modern Latitude": 37.602561
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.983944,
+          37.602561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.14.04",
+        "Name": "Cape Scombraria ",
+        "People": "Contestani",
+        "Type": 1,
+        "Longitude Omega": 12.917,
+        "Latitude Omega": 38.083,
+        "Longitude Xi": 12.5,
+        "Latitude Xi": 38.167,
+        "Modern Location": "Cabo de Palos",
+        "Modern Longitude": -0.689994,
+        "Modern Latitude": 37.635086
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.689994,
+          37.635086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.14.05",
+        "Name": "Mouth of the Tader",
+        "People": "Contestani",
+        "Type": 1,
+        "Longitude Omega": 12.5,
+        "Latitude Omega": 38.5,
+        "Longitude Xi": 12.5,
+        "Latitude Xi": 38.5,
+        "Modern Location": "Mouth of the Segura",
+        "Modern Longitude": -0.642814,
+        "Modern Latitude": 38.111242
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.642814,
+          38.111242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.14.06",
+        "Name": "Alonis",
+        "People": "Contestani",
+        "Type": 1,
+        "Longitude Omega": 12.667,
+        "Latitude Omega": 38.583,
+        "Longitude Xi": 12.5,
+        "Latitude Xi": 38.583,
+        "Modern Location": "near Santa Pola",
+        "Modern Longitude": -0.560706,
+        "Modern Latitude": 38.191892
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.560706,
+          38.191892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.14.07",
+        "Name": "Mouth of the Saetabis",
+        "People": "Contestani",
+        "Type": 1,
+        "Longitude Omega": 13.0,
+        "Latitude Omega": 38.75,
+        "Longitude Xi": 13.0,
+        "Latitude Xi": 38.75,
+        "Modern Location": "Mouth of the Albaida",
+        "Modern Longitude": -0.211267,
+        "Modern Latitude": 39.0767
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.211267,
+          39.0767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.14.08",
+        "Name": "Portus Illicitanus",
+        "People": "Contestani",
+        "Type": 1,
+        "Longitude Omega": 13.5,
+        "Latitude Omega": 38.75,
+        "Longitude Xi": 13.5,
+        "Latitude Xi": 38.75,
+        "Modern Location": "Gulf of Santa Pola",
+        "Modern Longitude": -0.57695,
+        "Modern Latitude": 38.189144
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.57695,
+          38.189144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.14.09",
+        "Name": "Mouth of the Sucro",
+        "People": "Contestani",
+        "Type": 1,
+        "Longitude Omega": 14.0,
+        "Latitude Omega": 38.333,
+        "Longitude Xi": 14.0,
+        "Latitude Xi": 38.833,
+        "Modern Location": "Mouth of the X\u00faquer",
+        "Modern Longitude": -0.244444,
+        "Modern Latitude": 39.153056
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.244444,
+          39.153056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.15.02",
+        "Name": "Mouth of the Pallantia",
+        "People": "Edetani",
+        "Type": 1,
+        "Longitude Omega": 14.667,
+        "Latitude Omega": 38.917,
+        "Longitude Xi": 14.5,
+        "Latitude Xi": 38.917,
+        "Modern Location": "Mouth of the Palantia",
+        "Modern Longitude": -0.211944,
+        "Modern Latitude": 39.6725
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.211944,
+          39.6725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.15.03",
+        "Name": "Mouth of the Turia",
+        "People": "Edetani",
+        "Type": 1,
+        "Longitude Omega": 15.0,
+        "Latitude Omega": 39.0,
+        "Longitude Xi": 15.0,
+        "Latitude Xi": 39.0,
+        "Modern Location": "Mouth of the Turia",
+        "Modern Longitude": 0.339167,
+        "Modern Latitude": 39.426667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.339167,
+          39.426667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.15.04",
+        "Name": "Dianium",
+        "People": "Edetani",
+        "Type": 1,
+        "Longitude Omega": 15.667,
+        "Latitude Omega": 39.5,
+        "Longitude Xi": 15.083,
+        "Latitude Xi": 39.5,
+        "Modern Location": "D\u00e9nia",
+        "Modern Longitude": 0.1075,
+        "Modern Latitude": 38.843056
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1075,
+          38.843056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.16.02",
+        "Name": "Cape Tenebrium ",
+        "People": "Ilercaones",
+        "Type": 1,
+        "Longitude Omega": 15.917,
+        "Latitude Omega": 39.667,
+        "Longitude Xi": 15.833,
+        "Latitude Xi": 39.333,
+        "Modern Location": "Cabo de la Nao",
+        "Modern Longitude": 0.225833,
+        "Modern Latitude": 38.741111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.225833,
+          38.741111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.16.03",
+        "Name": "Portus Tenebrius",
+        "People": "Ilercaones",
+        "Type": 1,
+        "Longitude Omega": 15.5,
+        "Latitude Omega": 40.0,
+        "Longitude Xi": 15.5,
+        "Latitude Xi": 40.0,
+        "Modern Location": "Gulf of X\u00e1bia",
+        "Modern Longitude": 0.200853,
+        "Modern Latitude": 38.779486
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.200853,
+          38.779486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.16.04",
+        "Name": "Mouth of the Iberus",
+        "People": "Ilercaones",
+        "Type": 1,
+        "Longitude Omega": 16.0,
+        "Latitude Omega": 40.5,
+        "Longitude Xi": 16.0,
+        "Latitude Xi": 40.5,
+        "Modern Location": "Mouth of the Ebro",
+        "Modern Longitude": 0.612222,
+        "Modern Latitude": 40.705833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.612222,
+          40.705833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.17.02",
+        "Name": "Tarraco",
+        "People": "Cessetani",
+        "Type": 1,
+        "Longitude Omega": 16.333,
+        "Latitude Omega": 40.667,
+        "Longitude Xi": 16.333,
+        "Latitude Xi": 40.667,
+        "Modern Location": "Tarragona",
+        "Modern Longitude": 1.2525,
+        "Modern Latitude": 41.115278
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2525,
+          41.115278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.17.03",
+        "Name": "Subur",
+        "People": "Cessetani",
+        "Type": 1,
+        "Longitude Omega": 16.833,
+        "Latitude Omega": 40.75,
+        "Longitude Xi": 16.833,
+        "Latitude Xi": 40.75,
+        "Modern Location": "Subirats",
+        "Modern Longitude": 1.797222,
+        "Modern Latitude": 41.384167
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.797222,
+          41.384167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.18.02",
+        "Name": "Barcino",
+        "People": "Laeetani",
+        "Type": 1,
+        "Longitude Omega": 17.25,
+        "Latitude Omega": 41.0,
+        "Longitude Xi": 17.25,
+        "Latitude Xi": 41.0,
+        "Modern Location": "Barcelona",
+        "Modern Longitude": 2.176667,
+        "Modern Latitude": 41.383056
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.176667,
+          41.383056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.18.03",
+        "Name": "Mouth of the Rubricatus",
+        "People": "Laeetani",
+        "Type": 1,
+        "Longitude Omega": 17.5,
+        "Latitude Omega": 41.0,
+        "Longitude Xi": 17.5,
+        "Latitude Xi": 41.25,
+        "Modern Location": "Mouth of the Llobregat",
+        "Modern Longitude": 2.123889,
+        "Modern Latitude": 41.31
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.123889,
+          41.31
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.19.01",
+        "Name": "Baetulo",
+        "People": "Laeetani",
+        "Type": 1,
+        "Longitude Omega": 17.833,
+        "Latitude Omega": 41.333,
+        "Longitude Xi": 17.833,
+        "Latitude Xi": 41.333,
+        "Modern Location": "Badalona",
+        "Modern Longitude": 2.248056,
+        "Modern Latitude": 41.450833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.248056,
+          41.450833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.19.02",
+        "Name": "Cape Lunarium",
+        "People": "Laeetani",
+        "Type": 1,
+        "Longitude Omega": 18.5,
+        "Latitude Omega": 41.5,
+        "Longitude Xi": 18.5,
+        "Latitude Xi": 41.333,
+        "Modern Location": "Cap Begur",
+        "Modern Longitude": 3.234444,
+        "Modern Latitude": 41.955278
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.234444,
+          41.955278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.19.03",
+        "Name": "Iluro",
+        "People": "Laeetani",
+        "Type": 1,
+        "Longitude Omega": 18.0,
+        "Latitude Omega": 41.75,
+        "Longitude Xi": 18.0,
+        "Latitude Xi": 41.75,
+        "Modern Location": "Matar\u00f3",
+        "Modern Longitude": 2.451111,
+        "Modern Latitude": 41.540556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.451111,
+          41.540556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.19.04",
+        "Name": "Blanda",
+        "People": "Laeetani",
+        "Type": 1,
+        "Longitude Omega": 18.25,
+        "Latitude Omega": 42.0,
+        "Longitude Xi": 18.25,
+        "Latitude Xi": 42.0,
+        "Modern Location": "Blanes",
+        "Modern Longitude": 2.79,
+        "Modern Latitude": 41.675556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.79,
+          41.675556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.20.02",
+        "Name": "Mouth of the Sambroca",
+        "People": "Indigetes",
+        "Type": 1,
+        "Longitude Omega": 18.5,
+        "Latitude Omega": 42.167,
+        "Longitude Xi": 18.5,
+        "Latitude Xi": 42.167,
+        "Modern Location": "Mouth of the Ter",
+        "Modern Longitude": 3.192222,
+        "Modern Latitude": 42.023611
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.192222,
+          42.023611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.20.03",
+        "Name": "Emporiae",
+        "People": "Indigetes",
+        "Type": 1,
+        "Longitude Omega": 18.75,
+        "Latitude Omega": 42.333,
+        "Longitude Xi": 18.75,
+        "Latitude Xi": 42.333,
+        "Modern Location": "Emp\u00faries",
+        "Modern Longitude": 3.1175,
+        "Modern Latitude": 42.134167
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1175,
+          42.134167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.20.04",
+        "Name": "Mouth of the Clodianus",
+        "People": "Indigetes",
+        "Type": 1,
+        "Longitude Omega": 19.0,
+        "Latitude Omega": 42.5,
+        "Longitude Xi": 19.0,
+        "Latitude Xi": 42.5,
+        "Modern Location": "Mouth of the Fluvi\u00e0",
+        "Modern Longitude": 3.109167,
+        "Modern Latitude": 42.201667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.109167,
+          42.201667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.20.05",
+        "Name": "Rhode",
+        "People": "Indigetes",
+        "Type": 1,
+        "Longitude Omega": 19.5,
+        "Latitude Omega": 42.5,
+        "Longitude Xi": 19.5,
+        "Latitude Xi": 42.5,
+        "Modern Location": "Roses",
+        "Modern Longitude": 3.185,
+        "Modern Latitude": 42.267778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.185,
+          42.267778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.20.06",
+        "Name": "Sanctuary of Venus",
+        "People": "Indigetes",
+        "Type": 1,
+        "Longitude Omega": 20.333,
+        "Latitude Omega": 42.333,
+        "Longitude Xi": 20.333,
+        "Latitude Xi": 42.333,
+        "Modern Location": "Cap B\u00e9ar",
+        "Modern Longitude": 3.093889,
+        "Modern Latitude": 42.518611
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.093889,
+          42.518611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.21.02",
+        "Name": "Vindium Mountain (W)",
+        "People": "Unspecified",
+        "Type": 0,
+        "Longitude Omega": 9.0,
+        "Latitude Omega": 45.0,
+        "Longitude Xi": 9.0,
+        "Latitude Xi": 45.0,
+        "Modern Location": "Cordillera Cant\u00e1brica, near Quiroga",
+        "Modern Longitude": -7.275342,
+        "Modern Latitude": 42.484731
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.275342,
+          42.484731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.21.03",
+        "Name": "Vindium Mountain (E)",
+        "People": "Unspecified",
+        "Type": 0,
+        "Longitude Omega": 11.5,
+        "Latitude Omega": 44.25,
+        "Longitude Xi": 11.5,
+        "Latitude Xi": 44.5,
+        "Modern Location": "Cordillera Cant\u00e1brica, near Aguilar de Campo",
+        "Modern Longitude": -4.273853,
+        "Modern Latitude": 42.817522
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.273853,
+          42.817522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.21.06",
+        "Name": "Idubeda Mountain (N)",
+        "People": "Unspecified",
+        "Type": 0,
+        "Longitude Omega": 14.0,
+        "Latitude Omega": 41.5,
+        "Longitude Xi": 14.0,
+        "Latitude Xi": 41.5,
+        "Modern Location": "Sistema Ib\u00e9rico, near Soria",
+        "Modern Longitude": -2.647792,
+        "Modern Latitude": 41.91235
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.647792,
+          41.91235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.21.07",
+        "Name": "Idubeda Mountain (S)",
+        "People": "Unspecified",
+        "Type": 0,
+        "Longitude Omega": 14.333,
+        "Latitude Omega": 39.0,
+        "Longitude Xi": 14.333,
+        "Latitude Xi": 39.0,
+        "Modern Location": "Sistema Ib\u00e9rico, near Cuenca",
+        "Modern Longitude": -1.582658,
+        "Modern Latitude": 39.918494
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.582658,
+          39.918494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.21.08",
+        "Name": "Orospeda Mountain (SW)",
+        "People": "Unspecified",
+        "Type": 0,
+        "Longitude Omega": 12.0,
+        "Latitude Omega": 37.667,
+        "Longitude Xi": 12.0,
+        "Latitude Xi": 37.667,
+        "Modern Location": "Cordilleras B\u00e9ticas",
+        "Modern Longitude": -3.605878,
+        "Modern Latitude": 37.1292
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.605878,
+          37.1292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.21.09",
+        "Name": "Orospeda Mountain (NE)",
+        "People": "Unspecified",
+        "Type": 0,
+        "Longitude Omega": 14.0,
+        "Latitude Omega": 39.667,
+        "Longitude Xi": 14.0,
+        "Latitude Xi": 39.667,
+        "Modern Location": "Cordilleras B\u00e9ticas",
+        "Modern Longitude": -0.851028,
+        "Modern Latitude": 38.985178
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.851028,
+          38.985178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.23.02",
+        "Name": "Burum",
+        "People": "Callaeci Lucensium",
+        "Type": 0,
+        "Longitude Omega": 8.25,
+        "Latitude Omega": 45.083,
+        "Longitude Xi": 8.25,
+        "Latitude Xi": 45.083,
+        "Modern Location": "Vila de Bares",
+        "Modern Longitude": -7.684967,
+        "Modern Latitude": 43.771739
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.684967,
+          43.771739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.23.07",
+        "Name": "Caronium",
+        "People": "Callaeci Lucensium",
+        "Type": 0,
+        "Longitude Omega": 7.0,
+        "Latitude Omega": 44.75,
+        "Longitude Xi": 7.0,
+        "Latitude Xi": 44.75,
+        "Modern Location": "Guitir\u00edz",
+        "Modern Longitude": -7.897517,
+        "Modern Latitude": 43.181769
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.897517,
+          43.181769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.24.02",
+        "Name": "Iria Flavia",
+        "People": "Capori",
+        "Type": 0,
+        "Longitude Omega": 6.417,
+        "Latitude Omega": 44.5,
+        "Longitude Xi": 6.417,
+        "Latitude Xi": 44.5,
+        "Modern Location": "Padr\u00f3n",
+        "Modern Longitude": -8.660803,
+        "Modern Latitude": 42.737997
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.660803,
+          42.737997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.24.03",
+        "Name": "Lucus Augusti",
+        "People": "Capori",
+        "Type": 0,
+        "Longitude Omega": 7.417,
+        "Latitude Omega": 44.417,
+        "Longitude Xi": 7.417,
+        "Latitude Xi": 44.417,
+        "Modern Location": "Lugo",
+        "Modern Longitude": -7.557683,
+        "Modern Latitude": 43.011283
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.557683,
+          43.011283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.25.02",
+        "Name": "Aquae Calidae [of the Cileni]",
+        "People": "Cileni",
+        "Type": 0,
+        "Longitude Omega": 6.333,
+        "Latitude Omega": 44.333,
+        "Longitude Xi": 6.333,
+        "Latitude Xi": 44.333,
+        "Modern Location": "Caldas de Reis",
+        "Modern Longitude": -8.642633,
+        "Modern Latitude": 42.604183
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.642633,
+          42.604183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.25.04",
+        "Name": "Dactonium",
+        "People": "Lemavi",
+        "Type": 0,
+        "Longitude Omega": 7.5,
+        "Latitude Omega": 44.0,
+        "Longitude Xi": 7.167,
+        "Latitude Xi": 44.0,
+        "Modern Location": "Monforte de Lemos",
+        "Modern Longitude": -7.510567,
+        "Modern Latitude": 42.5237
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.510567,
+          42.5237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.27.03",
+        "Name": "Aquae Quintinae",
+        "People": "Seurri",
+        "Type": 0,
+        "Longitude Omega": 8.5,
+        "Latitude Omega": 45.167,
+        "Longitude Xi": 8.5,
+        "Latitude Xi": 45.083,
+        "Modern Location": "Ba\u00f1os de Gunt\u00edn",
+        "Modern Longitude": -7.701253,
+        "Modern Latitude": 42.887211
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.701253,
+          42.887211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.28.02",
+        "Name": "Lucus Asturum",
+        "People": "Astures",
+        "Type": 0,
+        "Longitude Omega": 11.0,
+        "Latitude Omega": 45.0,
+        "Longitude Xi": 11.0,
+        "Latitude Xi": 45.0,
+        "Modern Location": "near La Casta\u00f1era",
+        "Modern Longitude": -5.824239,
+        "Modern Latitude": 43.4406
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.824239,
+          43.4406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.29.01",
+        "Name": "Lancia",
+        "People": "Astures",
+        "Type": 0,
+        "Longitude Omega": 9.333,
+        "Latitude Omega": 43.5,
+        "Longitude Xi": "None",
+        "Latitude Xi": "None",
+        "Modern Location": "near Villasabariego",
+        "Modern Longitude": -5.431117,
+        "Modern Latitude": 42.530278
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.431117,
+          42.530278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.29.03",
+        "Name": "Gigia",
+        "People": "Astures",
+        "Type": 0,
+        "Longitude Omega": 11.5,
+        "Latitude Omega": 43.75,
+        "Longitude Xi": 11.167,
+        "Latitude Xi": 43.75,
+        "Modern Location": "Gij\u00f3n",
+        "Modern Longitude": -5.662881,
+        "Modern Latitude": 43.543303
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.662881,
+          43.543303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.29.06",
+        "Name": "Legio VII Gemina",
+        "People": "Astures",
+        "Type": 0,
+        "Longitude Omega": "None",
+        "Latitude Omega": "None",
+        "Longitude Xi": 9.0,
+        "Latitude Xi": 44.5,
+        "Modern Location": "Le\u00f3n",
+        "Modern Longitude": -5.567531,
+        "Modern Latitude": 42.59845
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.567531,
+          42.59845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.35.02",
+        "Name": "Petavonium",
+        "People": "Superatii",
+        "Type": 0,
+        "Longitude Omega": 9.5,
+        "Latitude Omega": 43.667,
+        "Longitude Xi": 9.5,
+        "Latitude Xi": 43.667,
+        "Modern Location": "near Rosinos de Vidriales",
+        "Modern Longitude": -5.997858,
+        "Modern Latitude": 42.088644
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.997858,
+          42.088644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.36.02",
+        "Name": "Asturica Augusta",
+        "People": "Amaci",
+        "Type": 0,
+        "Longitude Omega": 9.5,
+        "Latitude Omega": 44.0,
+        "Longitude Xi": 9.5,
+        "Latitude Xi": 44.0,
+        "Modern Location": "Astorga",
+        "Modern Longitude": -6.053181,
+        "Modern Latitude": 42.454778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.053181,
+          42.454778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.39.04",
+        "Name": "Bracara Augusta",
+        "People": "Callaeci Bracarorum",
+        "Type": 0,
+        "Longitude Omega": 6.0,
+        "Latitude Omega": 43.667,
+        "Longitude Xi": 6.0,
+        "Latitude Xi": 43.417,
+        "Modern Location": "Braga",
+        "Modern Longitude": -8.429289,
+        "Modern Latitude": 41.546889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.429289,
+          41.546889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.40.02",
+        "Name": "Aquae Flaviae",
+        "People": "Turodi",
+        "Type": 0,
+        "Longitude Omega": 6.5,
+        "Latitude Omega": 43.667,
+        "Longitude Xi": 6.5,
+        "Latitude Xi": 43.083,
+        "Modern Location": "Chaves",
+        "Modern Longitude": -7.468314,
+        "Modern Latitude": 41.743722
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.468314,
+          41.743722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.44.02",
+        "Name": "Forum Limicorum",
+        "People": "Limici",
+        "Type": 0,
+        "Longitude Omega": 6.0,
+        "Latitude Omega": 42.25,
+        "Longitude Xi": 6.833,
+        "Latitude Xi": 42.75,
+        "Modern Location": "Xinzo de Limia",
+        "Modern Longitude": -7.725039,
+        "Modern Latitude": 42.063208
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.725039,
+          42.063208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.45.02",
+        "Name": "Tude",
+        "People": "Grovii",
+        "Type": 0,
+        "Longitude Omega": 8.333,
+        "Latitude Omega": 42.75,
+        "Longitude Xi": 8.333,
+        "Latitude Xi": 42.75,
+        "Modern Location": "T\u00fay",
+        "Modern Longitude": -8.646275,
+        "Modern Latitude": 42.050061
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.646275,
+          42.050061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.47.02",
+        "Name": "Aquae Quarquernae",
+        "People": "Quarquerni",
+        "Type": 0,
+        "Longitude Omega": 7.333,
+        "Latitude Omega": 42.333,
+        "Longitude Xi": 7.333,
+        "Latitude Xi": 42.333,
+        "Modern Location": "near Bande",
+        "Modern Longitude": -7.973261,
+        "Modern Latitude": 42.032617
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.973261,
+          42.032617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.50.03",
+        "Name": "Intercatia [of the Vaccaei]",
+        "People": "Vaccaei",
+        "Type": 0,
+        "Longitude Omega": 10.25,
+        "Latitude Omega": 43.417,
+        "Longitude Xi": 10.25,
+        "Latitude Xi": 43.417,
+        "Modern Location": "Villanueva del Campo",
+        "Modern Longitude": -5.406142,
+        "Modern Latitude": 41.984978
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.406142,
+          41.984978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.50.12",
+        "Name": "Rauda",
+        "People": "Vaccaei",
+        "Type": 0,
+        "Longitude Omega": 9.333,
+        "Latitude Omega": 42.5,
+        "Longitude Xi": 9.333,
+        "Latitude Xi": 42.583,
+        "Modern Location": "Roa de Duero",
+        "Modern Longitude": -3.92861,
+        "Modern Latitude": 41.69667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.92861,
+          41.69667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.50.14",
+        "Name": "Palantia",
+        "People": "Vaccaei",
+        "Type": 0,
+        "Longitude Omega": 10.5,
+        "Latitude Omega": 42.5,
+        "Longitude Xi": 10.5,
+        "Latitude Xi": 42.5,
+        "Modern Location": "Palencia",
+        "Modern Longitude": -4.53639,
+        "Modern Latitude": 42.01139
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.53639,
+          42.01139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.50.17",
+        "Name": "Cauca",
+        "People": "Vaccaei",
+        "Type": 0,
+        "Longitude Omega": 10.0,
+        "Latitude Omega": 42.333,
+        "Longitude Xi": 10.0,
+        "Latitude Xi": 42.333,
+        "Modern Location": "Coca",
+        "Modern Longitude": -4.52306,
+        "Modern Latitude": 41.21667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.52306,
+          41.21667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.51.04",
+        "Name": "Ottaviolca",
+        "People": "Cantabri",
+        "Type": 0,
+        "Longitude Omega": 12.667,
+        "Latitude Omega": 44.75,
+        "Longitude Xi": 12.667,
+        "Latitude Xi": 44.833,
+        "Modern Location": "near Camesa-Rebolledo",
+        "Modern Longitude": -4.15833,
+        "Modern Latitude": 42.88722
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.15833,
+          42.88722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.51.06",
+        "Name": "Vadinia",
+        "People": "Cantabri",
+        "Type": 0,
+        "Longitude Omega": 11.333,
+        "Latitude Omega": 44.667,
+        "Longitude Xi": 11.833,
+        "Latitude Xi": 44.417,
+        "Modern Location": "near Cangas de On\u00eds",
+        "Modern Longitude": -5.12889,
+        "Modern Latitude": 43.35056
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.12889,
+          43.35056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.51.09",
+        "Name": "Iuliobriga",
+        "People": "Cantabri",
+        "Type": 0,
+        "Longitude Omega": 12.167,
+        "Latitude Omega": 44.0,
+        "Longitude Xi": 12.167,
+        "Latitude Xi": 44.0,
+        "Modern Location": "near Retrotillo",
+        "Modern Longitude": -4.114008,
+        "Modern Latitude": 42.985525
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.114008,
+          42.985525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.52.03",
+        "Name": "Sisaraca",
+        "People": "Turmogi",
+        "Type": 0,
+        "Longitude Omega": 11.25,
+        "Latitude Omega": 43.5,
+        "Longitude Xi": 11.5,
+        "Latitude Xi": 43.5,
+        "Modern Location": "Herrera de Pisuerga",
+        "Modern Longitude": -4.330103,
+        "Modern Latitude": 42.594778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.330103,
+          42.594778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.52.04",
+        "Name": "Deobrigula",
+        "People": "Turmogi",
+        "Type": 0,
+        "Longitude Omega": 11.833,
+        "Latitude Omega": 43.333,
+        "Longitude Xi": 11.833,
+        "Latitude Xi": 43.417,
+        "Modern Location": "Castro de Tardajos",
+        "Modern Longitude": -3.808028,
+        "Modern Latitude": 42.353456
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.808028,
+          42.353456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.52.06",
+        "Name": "Segisamo",
+        "People": "Turmogi",
+        "Type": 0,
+        "Longitude Omega": 12.0,
+        "Latitude Omega": 43.167,
+        "Longitude Xi": 12.0,
+        "Latitude Xi": 43.167,
+        "Modern Location": "Sasam\u00f3n",
+        "Modern Longitude": -4.042764,
+        "Modern Latitude": 42.417292
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.042764,
+          42.417292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.53.03",
+        "Name": "Uxama Barca",
+        "People": "Autrigones",
+        "Type": 0,
+        "Longitude Omega": 13.0,
+        "Latitude Omega": 44.25,
+        "Longitude Xi": 13.0,
+        "Latitude Xi": 44.25,
+        "Modern Location": "Osma de Valdegovia",
+        "Modern Longitude": -3.063733,
+        "Modern Latitude": 42.8909
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.063733,
+          42.8909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.53.05",
+        "Name": "Virovesca",
+        "People": "Autrigones",
+        "Type": 0,
+        "Longitude Omega": 12.0,
+        "Latitude Omega": 43.0,
+        "Longitude Xi": 12.5,
+        "Latitude Xi": 43.5,
+        "Modern Location": "Briviesca",
+        "Modern Longitude": -3.322753,
+        "Modern Latitude": 42.550522
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.322753,
+          42.550522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.53.07",
+        "Name": "Deobriga",
+        "People": "Autrigones",
+        "Type": 0,
+        "Longitude Omega": 13.25,
+        "Latitude Omega": 43.5,
+        "Longitude Xi": 13.25,
+        "Latitude Xi": 43.5,
+        "Modern Location": "Arce Mirap\u00e9rez",
+        "Modern Longitude": -2.906633,
+        "Modern Latitude": 42.676881
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.906633,
+          42.676881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.54.04",
+        "Name": "Augustobriga [of the Pelendones]",
+        "People": "Pelendones",
+        "Type": 0,
+        "Longitude Omega": 11.5,
+        "Latitude Omega": 42.667,
+        "Longitude Xi": 11.5,
+        "Latitude Xi": 42.667,
+        "Modern Location": "Muro de \u00c1greda",
+        "Modern Longitude": -1.986606,
+        "Modern Latitude": 41.831933
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.986606,
+          41.831933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.55.03",
+        "Name": "Tritium Metallum",
+        "People": "Berones",
+        "Type": 0,
+        "Longitude Omega": 13.0,
+        "Latitude Omega": 42.0,
+        "Longitude Xi": 13.0,
+        "Latitude Xi": 42.833,
+        "Modern Location": "Tritio",
+        "Modern Longitude": -2.718853,
+        "Modern Latitude": 42.401464
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.718853,
+          42.401464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.55.05",
+        "Name": "Vareia",
+        "People": "Berones",
+        "Type": 0,
+        "Longitude Omega": 13.0,
+        "Latitude Omega": 42.25,
+        "Longitude Xi": 13.5,
+        "Latitude Xi": 42.75,
+        "Modern Location": "Varea, near Logro\u00f1o",
+        "Modern Longitude": -2.40685,
+        "Modern Latitude": 42.460669
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.40685,
+          42.460669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.56.05",
+        "Name": "Clunia Colonia",
+        "People": "Arevaci",
+        "Type": 0,
+        "Longitude Omega": 11.0,
+        "Latitude Omega": 42.0,
+        "Longitude Xi": 11.0,
+        "Latitude Xi": 42.0,
+        "Modern Location": "near Pe\u00f1alba de Castro",
+        "Modern Longitude": -3.370583,
+        "Modern Latitude": 41.780708
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.370583,
+          41.780708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.56.06",
+        "Name": "Termes",
+        "People": "Arevaci",
+        "Type": 0,
+        "Longitude Omega": 11.5,
+        "Latitude Omega": 42.417,
+        "Longitude Xi": 11.5,
+        "Latitude Xi": 42.417,
+        "Modern Location": "Montejo de Tiermes",
+        "Modern Longitude": -3.199456,
+        "Modern Latitude": 41.368617
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.199456,
+          41.368617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.56.07",
+        "Name": "Uxama Argela",
+        "People": "Arevaci",
+        "Type": 0,
+        "Longitude Omega": 11.5,
+        "Latitude Omega": 42.0,
+        "Longitude Xi": 11.5,
+        "Latitude Xi": 42.0,
+        "Modern Location": "Burgo de Osma",
+        "Modern Longitude": -3.089514,
+        "Modern Latitude": 41.726978
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.089514,
+          41.726978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.56.08",
+        "Name": "Segortia Langa",
+        "People": "Arevaci",
+        "Type": 0,
+        "Longitude Omega": 12.5,
+        "Latitude Omega": 41.667,
+        "Longitude Xi": 12.5,
+        "Latitude Xi": 42.417,
+        "Modern Location": "near Langa de Duero",
+        "Modern Longitude": -3.401161,
+        "Modern Latitude": 41.611069
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.401161,
+          41.611069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.56.11",
+        "Name": "Numantia",
+        "People": "Arevaci",
+        "Type": 0,
+        "Longitude Omega": 13.417,
+        "Latitude Omega": 42.75,
+        "Longitude Xi": 12.5,
+        "Latitude Xi": 41.833,
+        "Modern Location": "near Garray",
+        "Modern Longitude": -2.444461,
+        "Modern Latitude": 41.808375
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.444461,
+          41.808375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.56.12",
+        "Name": "Segovia",
+        "People": "Arevaci",
+        "Type": 0,
+        "Longitude Omega": 13.5,
+        "Latitude Omega": 42.917,
+        "Longitude Xi": 13.5,
+        "Latitude Xi": 42.417,
+        "Modern Location": "Segovia",
+        "Modern Longitude": -4.116728,
+        "Modern Latitude": 40.946481
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.116728,
+          40.946481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.57.09",
+        "Name": "Titulcia",
+        "People": "Carpetani",
+        "Type": 0,
+        "Longitude Omega": 13.0,
+        "Latitude Omega": 41.333,
+        "Longitude Xi": 13.0,
+        "Latitude Xi": 41.333,
+        "Modern Location": "Titulcia",
+        "Modern Longitude": -3.570956,
+        "Modern Latitude": 40.137436
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.570956,
+          40.137436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.57.11",
+        "Name": "Toletum",
+        "People": "Carpetani",
+        "Type": 0,
+        "Longitude Omega": 10.0,
+        "Latitude Omega": 41.0,
+        "Longitude Xi": 10.0,
+        "Latitude Xi": 41.0,
+        "Modern Location": "Toledo",
+        "Modern Longitude": -4.023669,
+        "Modern Latitude": 39.855833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.023669,
+          39.855833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.57.12",
+        "Name": "Complutum",
+        "People": "Carpetani",
+        "Type": 0,
+        "Longitude Omega": 10.333,
+        "Latitude Omega": 41.667,
+        "Longitude Xi": 10.833,
+        "Latitude Xi": 41.083,
+        "Modern Location": "Alcal\u00e1 de Henares",
+        "Modern Longitude": -3.3675,
+        "Modern Latitude": 40.480714
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3675,
+          40.480714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.58.03",
+        "Name": "Turiasso",
+        "People": "Celtiberi",
+        "Type": 0,
+        "Longitude Omega": 13.5,
+        "Latitude Omega": 41.333,
+        "Longitude Xi": 13.167,
+        "Latitude Xi": 41.833,
+        "Modern Location": "Tarazona",
+        "Modern Longitude": -1.727397,
+        "Modern Latitude": 41.905772
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.727397,
+          41.905772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.58.04",
+        "Name": "Nertobriga [of the Celtiberi]",
+        "People": "Celtiberi",
+        "Type": 0,
+        "Longitude Omega": 14.0,
+        "Latitude Omega": 41.75,
+        "Longitude Xi": 14.0,
+        "Latitude Xi": 41.75,
+        "Modern Location": "near Calatorao",
+        "Modern Longitude": -1.345708,
+        "Modern Latitude": 41.522369
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.345708,
+          41.522369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.58.05",
+        "Name": "Bilbilis",
+        "People": "Celtiberi",
+        "Type": 0,
+        "Longitude Omega": 14.75,
+        "Latitude Omega": 41.5,
+        "Longitude Xi": 14.75,
+        "Latitude Xi": 41.5,
+        "Modern Location": "Carro de Bambola, Calatayud",
+        "Modern Longitude": -1.64067,
+        "Modern Latitude": 41.38195
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.64067,
+          41.38195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.58.06",
+        "Name": "Arcobriga [of the Celtiberi]",
+        "People": "Celtiberi",
+        "Type": 0,
+        "Longitude Omega": 13.333,
+        "Latitude Omega": 41.667,
+        "Longitude Xi": 13.417,
+        "Latitude Xi": 41.417,
+        "Modern Location": "Arco de Jal\u00f3n",
+        "Modern Longitude": -2.274561,
+        "Modern Latitude": 41.216092
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.274561,
+          41.216092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.58.07",
+        "Name": "Caesada",
+        "People": "Celtiberi",
+        "Type": 0,
+        "Longitude Omega": 12.167,
+        "Latitude Omega": 41.0,
+        "Longitude Xi": 12.167,
+        "Latitude Xi": 41.0,
+        "Modern Location": "near Espinosa de Henares",
+        "Modern Longitude": -3.043392,
+        "Modern Latitude": 40.919744
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.043392,
+          40.919744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.58.09",
+        "Name": "Attacum",
+        "People": "Celtiberi",
+        "Type": 0,
+        "Longitude Omega": 13.5,
+        "Latitude Omega": 41.667,
+        "Longitude Xi": 13.5,
+        "Latitude Xi": 41.083,
+        "Modern Location": "Ateca",
+        "Modern Longitude": -1.792167,
+        "Modern Latitude": 41.330958
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.792167,
+          41.330958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.58.10",
+        "Name": "Ergavica",
+        "People": "Celtiberi",
+        "Type": 0,
+        "Longitude Omega": 12.333,
+        "Latitude Omega": 40.75,
+        "Longitude Xi": 12.5,
+        "Latitude Xi": 40.75,
+        "Modern Location": "near Ca\u00f1averuelas",
+        "Modern Longitude": -2.670217,
+        "Modern Latitude": 40.432658
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.670217,
+          40.432658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.58.11",
+        "Name": "Segobriga",
+        "People": "Celtiberi",
+        "Type": 0,
+        "Longitude Omega": 13.167,
+        "Latitude Omega": 40.667,
+        "Longitude Xi": 13.5,
+        "Latitude Xi": 40.833,
+        "Modern Location": "Cabeza del Griego, near Saelices",
+        "Modern Longitude": -2.813231,
+        "Modern Latitude": 39.885083
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.813231,
+          39.885083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.58.12",
+        "Name": "Condabora",
+        "People": "Celtiberi",
+        "Type": 0,
+        "Longitude Omega": 13.333,
+        "Latitude Omega": 40.5,
+        "Longitude Xi": 13.833,
+        "Latitude Xi": 40.5,
+        "Modern Location": "Consegura",
+        "Modern Longitude": -3.605881,
+        "Modern Latitude": 39.460139
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.605881,
+          39.460139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.58.13",
+        "Name": "Bursada",
+        "People": "Celtiberi",
+        "Type": 0,
+        "Longitude Omega": 12.75,
+        "Latitude Omega": 40.833,
+        "Longitude Xi": 12.75,
+        "Latitude Xi": 40.583,
+        "Modern Location": "Borja",
+        "Modern Longitude": -1.533664,
+        "Modern Latitude": 41.834883
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.533664,
+          41.834883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.58.15",
+        "Name": "Valeria",
+        "People": "Celtiberi",
+        "Type": 0,
+        "Longitude Omega": 12.5,
+        "Latitude Omega": 40.667,
+        "Longitude Xi": 12.5,
+        "Latitude Xi": 40.417,
+        "Modern Location": "near Valeria",
+        "Modern Longitude": -2.150369,
+        "Modern Latitude": 39.808117
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.150369,
+          39.808117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.59.03",
+        "Name": "Salaria [of the Oretani]",
+        "People": "Oretani",
+        "Type": 0,
+        "Longitude Omega": 9.333,
+        "Latitude Omega": 40.0,
+        "Longitude Xi": 9.333,
+        "Latitude Xi": 40.0,
+        "Modern Location": "near Ubeda la Vieja",
+        "Modern Longitude": -3.3244,
+        "Modern Latitude": 37.924211
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3244,
+          37.924211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.59.04",
+        "Name": "Sisapo",
+        "People": "Oretani",
+        "Type": 0,
+        "Longitude Omega": 10.0,
+        "Latitude Omega": 39.0,
+        "Longitude Xi": 10.0,
+        "Latitude Xi": 39.917,
+        "Modern Location": "La Bienvenida",
+        "Modern Longitude": -4.51735,
+        "Modern Latitude": 38.646033
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.51735,
+          38.646033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.59.05",
+        "Name": "Oretum Germanorum",
+        "People": "Oretani",
+        "Type": 0,
+        "Longitude Omega": 9.167,
+        "Latitude Omega": 39.667,
+        "Longitude Xi": 9.167,
+        "Latitude Xi": 39.667,
+        "Modern Location": "near Ermita de Nostra Se\u00f1ora de Zaqueca",
+        "Modern Longitude": -3.725553,
+        "Modern Latitude": 38.760803
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.725553,
+          38.760803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.59.07",
+        "Name": "Mirobriga [of the Oretani]",
+        "People": "Oretani",
+        "Type": 0,
+        "Longitude Omega": 9.5,
+        "Latitude Omega": 39.5,
+        "Longitude Xi": 9.5,
+        "Latitude Xi": 39.167,
+        "Modern Location": "Capilla",
+        "Modern Longitude": -5.084397,
+        "Modern Latitude": 38.820444
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.084397,
+          38.820444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.59.09",
+        "Name": "Libisosa",
+        "People": "Oretani",
+        "Type": 0,
+        "Longitude Omega": 11.333,
+        "Latitude Omega": 39.0,
+        "Longitude Xi": 11.417,
+        "Latitude Xi": 39.5,
+        "Modern Location": "Lezuza",
+        "Modern Longitude": -2.355283,
+        "Modern Latitude": 38.949522
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.355283,
+          38.949522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.59.10",
+        "Name": "Castulo",
+        "People": "Oretani",
+        "Type": 0,
+        "Longitude Omega": 9.5,
+        "Latitude Omega": 39.0,
+        "Longitude Xi": 9.5,
+        "Latitude Xi": 39.0,
+        "Modern Location": "S Linares",
+        "Modern Longitude": -3.623453,
+        "Modern Latitude": 38.035992
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.623453,
+          38.035992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.59.12",
+        "Name": "Mentesa",
+        "People": "Oretani",
+        "Type": 0,
+        "Longitude Omega": 10.333,
+        "Latitude Omega": 39.0,
+        "Longitude Xi": 10.417,
+        "Latitude Xi": 39.0,
+        "Modern Location": "Villanueva de la Fuente",
+        "Modern Longitude": -2.695158,
+        "Modern Latitude": 38.693256
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.695158,
+          38.693256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.59.14",
+        "Name": "Biatia",
+        "People": "Oretani",
+        "Type": 0,
+        "Longitude Omega": 10.0,
+        "Latitude Omega": 38.75,
+        "Longitude Xi": 10.0,
+        "Latitude Xi": 38.75,
+        "Modern Location": "Baeza",
+        "Modern Longitude": -3.469897,
+        "Modern Latitude": 37.995508
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.469897,
+          37.995508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.59.16",
+        "Name": "Tugia",
+        "People": "Oretani",
+        "Type": 0,
+        "Longitude Omega": "None",
+        "Latitude Omega": "None",
+        "Longitude Xi": 10.333,
+        "Latitude Xi": 38.5,
+        "Modern Location": "near Tugia",
+        "Modern Longitude": -3.16735,
+        "Modern Latitude": 37.892158
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.16735,
+          37.892158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.61.06",
+        "Name": "Saltiga",
+        "People": "Bastetani",
+        "Type": 0,
+        "Longitude Omega": 12.0,
+        "Latitude Omega": 39.5,
+        "Longitude Xi": 12.0,
+        "Latitude Xi": 39.5,
+        "Modern Location": "Chinchilla de Monte-Aragon",
+        "Modern Longitude": -1.726256,
+        "Modern Latitude": 38.919864
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.726256,
+          38.919864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.61.09",
+        "Name": "Asso",
+        "People": "Bastetani",
+        "Type": 0,
+        "Longitude Omega": 12.0,
+        "Latitude Omega": 39.167,
+        "Longitude Xi": 12.0,
+        "Latitude Xi": 39.167,
+        "Modern Location": "La Encarnaci\u00f3n, S. Caravaca de la Cruz",
+        "Modern Longitude": -1.881258,
+        "Modern Latitude": 38.029833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.881258,
+          38.029833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.61.10",
+        "Name": "Bergula",
+        "People": "Bastetani",
+        "Type": 0,
+        "Longitude Omega": 11.333,
+        "Latitude Omega": 39.75,
+        "Longitude Xi": 11.333,
+        "Latitude Xi": 39.917,
+        "Modern Location": "Berja ",
+        "Modern Longitude": -2.948803,
+        "Modern Latitude": 36.844547
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.948803,
+          36.844547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.61.17",
+        "Name": "Acci",
+        "People": "Bastetani",
+        "Type": 0,
+        "Longitude Omega": 11.75,
+        "Latitude Omega": 38.5,
+        "Longitude Xi": 11.75,
+        "Latitude Xi": 37.583,
+        "Modern Location": "Guadix el Viejo",
+        "Modern Longitude": -3.141025,
+        "Modern Latitude": 37.301081
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.141025,
+          37.301081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.62.03",
+        "Name": "Valentia",
+        "People": "Contestani",
+        "Type": 0,
+        "Longitude Omega": 14.0,
+        "Latitude Omega": 39.0,
+        "Longitude Xi": 14.0,
+        "Latitude Xi": 39.083,
+        "Modern Location": "Valencia",
+        "Modern Longitude": -0.375306,
+        "Modern Latitude": 39.476083
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.375306,
+          39.476083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.62.04",
+        "Name": "Saetabis",
+        "People": "Contestani",
+        "Type": 0,
+        "Longitude Omega": 13.167,
+        "Latitude Omega": 39.0,
+        "Longitude Xi": 13.167,
+        "Latitude Xi": 39.0,
+        "Modern Location": "X\u00e0tiva ",
+        "Modern Longitude": -0.517669,
+        "Modern Latitude": 38.988225
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.517669,
+          38.988225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.62.06",
+        "Name": "Ilici",
+        "People": "Contestani",
+        "Type": 0,
+        "Longitude Omega": 12.333,
+        "Latitude Omega": 38.5,
+        "Longitude Xi": 12.333,
+        "Latitude Xi": 38.833,
+        "Modern Location": "Alc\u00fadia de Elx",
+        "Modern Longitude": -0.695931,
+        "Modern Latitude": 38.246583
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.695931,
+          38.246583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.62.07",
+        "Name": "Iaspis",
+        "People": "Contestani",
+        "Type": 0,
+        "Longitude Omega": 12.333,
+        "Latitude Omega": 38.917,
+        "Longitude Xi": 12.333,
+        "Latitude Xi": 38.25,
+        "Modern Location": "Aspe",
+        "Modern Longitude": -0.768169,
+        "Modern Latitude": 38.346358
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.768169,
+          38.346358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.63.04",
+        "Name": "Caesaraugusta",
+        "People": "Edetani",
+        "Type": 0,
+        "Longitude Omega": 14.25,
+        "Latitude Omega": 41.5,
+        "Longitude Xi": 14.5,
+        "Latitude Xi": 41.5,
+        "Modern Location": "Zaragoza",
+        "Modern Longitude": -0.878122,
+        "Modern Latitude": 41.654331
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.878122,
+          41.654331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.63.12",
+        "Name": "Etobesa",
+        "People": "Edetani",
+        "Type": 0,
+        "Longitude Omega": 14.333,
+        "Latitude Omega": 39.75,
+        "Longitude Xi": 14.333,
+        "Latitude Xi": 39.75,
+        "Modern Location": "Orospeda del Mar",
+        "Modern Longitude": 0.144742,
+        "Modern Latitude": 40.084772
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.144742,
+          40.084772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.63.13",
+        "Name": "Lassira",
+        "People": "Edetani",
+        "Type": 0,
+        "Longitude Omega": 14.833,
+        "Latitude Omega": 39.667,
+        "Longitude Xi": 14.833,
+        "Latitude Xi": 39.667,
+        "Modern Location": "Forcall",
+        "Modern Longitude": -0.200014,
+        "Modern Latitude": 40.645353
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.200014,
+          40.645353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.63.14",
+        "Name": "Edeta also known as Liria",
+        "People": "Edetani",
+        "Type": 0,
+        "Longitude Omega": 14.417,
+        "Latitude Omega": 39.417,
+        "Longitude Xi": 14.417,
+        "Latitude Xi": 39.417,
+        "Modern Location": "Ll\u00edria",
+        "Modern Longitude": -0.599375,
+        "Modern Latitude": 39.621036
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.599375,
+          39.621036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.63.15",
+        "Name": "Saguntum",
+        "People": "Edetani",
+        "Type": 0,
+        "Longitude Omega": 14.583,
+        "Latitude Omega": 39.667,
+        "Longitude Xi": 14.583,
+        "Latitude Xi": 39.333,
+        "Modern Location": "Sagunto",
+        "Modern Longitude": -0.276764,
+        "Modern Latitude": 39.676114
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.276764,
+          39.676114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.64.08",
+        "Name": "Dertosa",
+        "People": "Ilercaones",
+        "Type": 0,
+        "Longitude Omega": 15.25,
+        "Latitude Omega": 40.0,
+        "Longitude Xi": 15.25,
+        "Latitude Xi": 40.0,
+        "Modern Location": "Tortosa",
+        "Modern Longitude": 0.522239,
+        "Modern Latitude": 40.811992
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.522239,
+          40.811992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.65.07",
+        "Name": "Veleia ",
+        "People": "Carietes",
+        "Type": 0,
+        "Longitude Omega": 13.917,
+        "Latitude Omega": 43.333,
+        "Longitude Xi": 13.917,
+        "Latitude Xi": 43.333,
+        "Modern Location": "Iru\u00f1a",
+        "Modern Longitude": -2.787078,
+        "Modern Latitude": 42.841811
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.787078,
+          42.841811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.66.04",
+        "Name": "Tullonium",
+        "People": "Varduli",
+        "Type": 0,
+        "Longitude Omega": 13.917,
+        "Latitude Omega": 43.75,
+        "Longitude Xi": 13.833,
+        "Latitude Xi": 43.5,
+        "Modern Location": "Castillo de Henayo, Alegria-Dulantzi",
+        "Modern Longitude": -2.494864,
+        "Modern Latitude": 42.843725
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.494864,
+          42.843725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.67.03",
+        "Name": "Pompaelo ",
+        "People": "Vascones",
+        "Type": 0,
+        "Longitude Omega": 15.0,
+        "Latitude Omega": 43.75,
+        "Longitude Xi": 15.0,
+        "Latitude Xi": 43.75,
+        "Modern Location": "Pamplona",
+        "Modern Longitude": -1.643022,
+        "Modern Latitude": 42.816914
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.643022,
+          42.816914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.67.05",
+        "Name": "Andelus",
+        "People": "Vascones",
+        "Type": 0,
+        "Longitude Omega": 15.0,
+        "Latitude Omega": 43.5,
+        "Longitude Xi": 15.5,
+        "Latitude Xi": 43.5,
+        "Modern Location": "Muruzabal de Andion",
+        "Modern Longitude": -1.859558,
+        "Modern Latitude": 42.599192
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.859558,
+          42.599192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.67.08",
+        "Name": "Iacca",
+        "People": "Vascones",
+        "Type": 0,
+        "Longitude Omega": 15.5,
+        "Latitude Omega": 43.417,
+        "Longitude Xi": 15.5,
+        "Latitude Xi": 43.25,
+        "Modern Location": "Jaca",
+        "Modern Longitude": -0.54944,
+        "Modern Latitude": 42.569253
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.54944,
+          42.569253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.67.09",
+        "Name": "Graccuris",
+        "People": "Vascones",
+        "Type": 0,
+        "Longitude Omega": 15.0,
+        "Latitude Omega": 43.0,
+        "Longitude Xi": 15.0,
+        "Latitude Xi": 41.0,
+        "Modern Location": "Alfaro",
+        "Modern Longitude": -1.746069,
+        "Modern Latitude": 42.183306
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.746069,
+          42.183306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.67.10",
+        "Name": "Calagorina",
+        "People": "Vascones",
+        "Type": 0,
+        "Longitude Omega": 14.667,
+        "Latitude Omega": 42.917,
+        "Longitude Xi": 14.667,
+        "Latitude Xi": 42.917,
+        "Modern Location": "Calahorra",
+        "Modern Longitude": -1.95765,
+        "Modern Latitude": 42.301239
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.95765,
+          42.301239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.67.11",
+        "Name": "Cascantum",
+        "People": "Vascones",
+        "Type": 0,
+        "Longitude Omega": 15.0,
+        "Latitude Omega": 42.75,
+        "Longitude Xi": 15.0,
+        "Latitude Xi": 42.75,
+        "Modern Location": "Cascante",
+        "Modern Longitude": -1.678303,
+        "Modern Latitude": 41.999464
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.678303,
+          41.999464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.67.15",
+        "Name": "Setia",
+        "People": "Vascones",
+        "Type": 0,
+        "Longitude Omega": 14.667,
+        "Latitude Omega": 42.25,
+        "Longitude Xi": 14.667,
+        "Latitude Xi": 42.25,
+        "Modern Location": "Ejea de los Caballeros",
+        "Modern Longitude": -1.139222,
+        "Modern Latitude": 42.128189
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.139222,
+          42.128189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.68.03",
+        "Name": "Celsa",
+        "People": "Ilergetes",
+        "Type": 0,
+        "Longitude Omega": 16.0,
+        "Latitude Omega": 42.75,
+        "Longitude Xi": 16.0,
+        "Latitude Xi": 42.75,
+        "Modern Location": "Velilla de Ebro",
+        "Modern Longitude": -0.432289,
+        "Modern Latitude": 41.373383
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.432289,
+          41.373383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.68.05",
+        "Name": "Eraga",
+        "People": "Ilergetes",
+        "Type": 0,
+        "Longitude Omega": 15.75,
+        "Latitude Omega": 42.25,
+        "Longitude Xi": 16.167,
+        "Latitude Xi": 42.833,
+        "Modern Location": "Terrassa",
+        "Modern Longitude": 2.007908,
+        "Modern Latitude": 41.563919
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.007908,
+          41.563919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.68.07",
+        "Name": "Osca [of the Ilergetes]",
+        "People": "Ilergetes",
+        "Type": 0,
+        "Longitude Omega": 16.0,
+        "Latitude Omega": 42.5,
+        "Longitude Xi": 16.0,
+        "Latitude Xi": 42.167,
+        "Modern Location": "Huesca",
+        "Modern Longitude": -0.408086,
+        "Modern Latitude": 42.139617
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.408086,
+          42.139617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.68.08",
+        "Name": "Burtina",
+        "People": "Ilergetes",
+        "Type": 0,
+        "Longitude Omega": 15.167,
+        "Latitude Omega": 41.917,
+        "Longitude Xi": 15.167,
+        "Latitude Xi": 41.917,
+        "Modern Location": "Almuv\u00e9dar",
+        "Modern Longitude": -0.581053,
+        "Modern Latitude": 42.043111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.581053,
+          42.043111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.68.11",
+        "Name": "Ilerda",
+        "People": "Ilergetes",
+        "Type": 0,
+        "Longitude Omega": 15.417,
+        "Latitude Omega": 41.417,
+        "Longitude Xi": 15.417,
+        "Latitude Xi": 41.417,
+        "Modern Location": "Lleida",
+        "Modern Longitude": 0.625,
+        "Modern Latitude": 41.618319
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.625,
+          41.618319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.69.02",
+        "Name": "Iulia Libica",
+        "People": "Cerretani",
+        "Type": 0,
+        "Longitude Omega": 17.333,
+        "Latitude Omega": 42.75,
+        "Longitude Xi": 17.333,
+        "Latitude Xi": 42.75,
+        "Modern Location": "Ll\u00edvia",
+        "Modern Longitude": 1.986375,
+        "Modern Latitude": 42.467011
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.986375,
+          42.467011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.70.03",
+        "Name": "Ausa",
+        "People": "Ausetani",
+        "Type": 0,
+        "Longitude Omega": 16.167,
+        "Latitude Omega": 42.167,
+        "Longitude Xi": 16.167,
+        "Latitude Xi": 42.5,
+        "Modern Location": "Vic",
+        "Modern Longitude": 2.254436,
+        "Modern Latitude": 41.930406
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.254436,
+          41.930406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.70.05",
+        "Name": "Gerunda",
+        "People": "Ausetani",
+        "Type": 0,
+        "Longitude Omega": 16.667,
+        "Latitude Omega": 42.667,
+        "Longitude Xi": 17.917,
+        "Latitude Xi": 42.25,
+        "Modern Location": "Gerona",
+        "Modern Longitude": 2.826042,
+        "Modern Latitude": 41.987011
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.826042,
+          41.987011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.72.02",
+        "Name": "Aeso",
+        "People": "Iaccetani",
+        "Type": 0,
+        "Longitude Omega": 16.333,
+        "Latitude Omega": 42.0,
+        "Longitude Xi": 16.333,
+        "Latitude Xi": 42.0,
+        "Modern Location": "Isona",
+        "Modern Longitude": 1.046272,
+        "Modern Latitude": 42.118303
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.046272,
+          42.118303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.72.05",
+        "Name": "Setelsis",
+        "People": "Iaccetani",
+        "Type": 0,
+        "Longitude Omega": 16.667,
+        "Latitude Omega": 41.583,
+        "Longitude Xi": 16.667,
+        "Latitude Xi": 41.583,
+        "Modern Location": "Solsona",
+        "Modern Longitude": 1.517561,
+        "Modern Latitude": 41.994906
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.517561,
+          41.994906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.72.06",
+        "Name": "Telobis",
+        "People": "Iaccetani",
+        "Type": 0,
+        "Longitude Omega": 16.0,
+        "Latitude Omega": 41.167,
+        "Longitude Xi": 16.0,
+        "Latitude Xi": 41.167,
+        "Modern Location": "near Monzon",
+        "Modern Longitude": 0.191683,
+        "Modern Latitude": 41.908936
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.191683,
+          41.908936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.72.09",
+        "Name": "Iessus",
+        "People": "Iaccetani",
+        "Type": 0,
+        "Longitude Omega": 15.5,
+        "Latitude Omega": 41.0,
+        "Longitude Xi": 15.5,
+        "Latitude Xi": 41.0,
+        "Modern Location": "Guisona",
+        "Modern Longitude": 1.288839,
+        "Modern Latitude": 41.785281
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.288839,
+          41.785281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.73.02",
+        "Name": "Deciana",
+        "People": "Indigetes",
+        "Type": 0,
+        "Longitude Omega": 18.667,
+        "Latitude Omega": 42.583,
+        "Longitude Xi": 17.833,
+        "Latitude Xi": 42.583,
+        "Modern Location": "La Jonquera",
+        "Modern Longitude": 2.873497,
+        "Modern Latitude": 42.418339
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.873497,
+          42.418339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.73.03",
+        "Name": "Iuncaria",
+        "People": "Indigetes",
+        "Type": 0,
+        "Longitude Omega": 18.5,
+        "Latitude Omega": 42.417,
+        "Longitude Xi": 18.167,
+        "Latitude Xi": 42.333,
+        "Modern Location": "Figueres",
+        "Modern Longitude": 2.961281,
+        "Modern Latitude": 42.26825
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.961281,
+          42.26825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.75.03",
+        "Name": "Trileuci Scopuli",
+        "People": "Unspecified",
+        "Type": 2,
+        "Longitude Omega": 9.0,
+        "Latitude Omega": 46.75,
+        "Longitude Xi": 9.0,
+        "Latitude Xi": 46.75,
+        "Modern Location": "Illotes Aguill\u00f3ns",
+        "Modern Longitude": -7.868283,
+        "Modern Latitude": 43.779492
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.868283,
+          43.779492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.77.03",
+        "Name": "Ophiussa",
+        "People": "Unspecified",
+        "Type": 2,
+        "Longitude Omega": 14.833,
+        "Latitude Omega": 38.333,
+        "Longitude Xi": 14.833,
+        "Latitude Xi": 38.333,
+        "Modern Location": "Formentera",
+        "Modern Longitude": 1.439844,
+        "Modern Latitude": 38.705083
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.439844,
+          38.705083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.77.04",
+        "Name": "Ebusus",
+        "People": "Unspecified",
+        "Type": 2,
+        "Longitude Omega": 14.0,
+        "Latitude Omega": 38.083,
+        "Longitude Xi": 14.0,
+        "Latitude Xi": 38.083,
+        "Modern Location": "Ibiza",
+        "Modern Longitude": 1.436011,
+        "Modern Latitude": 38.906578
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.436011,
+          38.906578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.78.04",
+        "Name": "Palma",
+        "People": "Unspecified",
+        "Type": 2,
+        "Longitude Omega": 16.167,
+        "Latitude Omega": 39.25,
+        "Longitude Xi": 16.167,
+        "Latitude Xi": 39.25,
+        "Modern Location": "Palma de Mallorca",
+        "Modern Longitude": 2.651825,
+        "Modern Latitude": 39.569119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.651825,
+          39.569119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.78.05",
+        "Name": "Pollentia",
+        "People": "Unspecified",
+        "Type": 2,
+        "Longitude Omega": 16.75,
+        "Latitude Omega": 39.25,
+        "Longitude Xi": 16.75,
+        "Latitude Xi": 39.25,
+        "Modern Location": "Alc\u00fadia de Pollen\u00e7a",
+        "Modern Longitude": 3.122444,
+        "Modern Latitude": 39.849167
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.122444,
+          39.849167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.78.07",
+        "Name": "Iamo",
+        "People": "Unspecified",
+        "Type": 2,
+        "Longitude Omega": 17.167,
+        "Latitude Omega": 39.5,
+        "Longitude Xi": 17.167,
+        "Latitude Xi": 39.5,
+        "Modern Location": "Ciutadella de Menorca",
+        "Modern Longitude": 3.837856,
+        "Modern Latitude": 40.000347
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.837856,
+          40.000347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TopoRef": "2.06.78.08",
+        "Name": "Mago",
+        "People": "Unspecified",
+        "Type": 2,
+        "Longitude Omega": 17.5,
+        "Latitude Omega": 39.5,
+        "Longitude Xi": 17.5,
+        "Latitude Xi": 39.5,
+        "Modern Location": "Mah\u00f3n",
+        "Modern Longitude": 4.262478,
+        "Modern Latitude": 39.889692
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.262478,
+          39.889692
+        ]
+      }
+    }
+  ],
+  "properties": {
+    "fields": {
+      "TopoRef": {
+        "name": "TopoRef"
+      },
+      "Name": {
+        "name": "Name"
+      },
+      "People": {
+        "name": "People"
+      },
+      "Type": {
+        "lookup": {
+          "0": "Interior",
+          "1": "Coast",
+          "2": "Island"
+        },
+        "name": "Type"
+      },
+      "Longitude Omega": {
+        "name": "Longitude Omega"
+      },
+      "Latitude Omega": {
+        "name": "Latitude Omega"
+      },
+      "Longitude Xi": {
+        "name": "Longitude Xi"
+      },
+      "Latitude Xi": {
+        "name": "Latitude Xi"
+      },
+      "Modern Location": {
+        "name": "Modern Location"
+      },
+      "Modern Longitude": {
+        "name": "Modern Longitude"
+      },
+      "Modern Latitude": {
+        "name": "Modern Latitude"
+      }
+    },
+    "attribution": "Implemented: <a target=\"_blank\" href=\"http://www.topoi.org\">Topoi</a> and <a target=\"_blank\" href=\"https://www.mpiwg-berlin.mpg.de\">MPIWG</a>",
+    "description": "Displaying GeoJson Data from Pandas Dataframe"
+  }
+}
